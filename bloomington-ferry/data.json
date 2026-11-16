@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 3 \u00b7 MN River Valley \u2013 Bloomington Ferry",
- "built_at": "2026-11-16T12:56:16-06:00",
- "built_at_label": "Nov 16, 2026 12:56 PM CT",
- "snapshot_label": "Nov 16, 2026 12:56 PM CT",
+ "built_at": "2026-11-16T14:37:28-06:00",
+ "built_at_label": "Nov 16, 2026 2:37 PM CT",
+ "snapshot_label": "Nov 16, 2026 2:37 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 12:56 PM CT",
+ "open_sessions_now_label": "Nov 16 2:37 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-05",
@@ -1902,6 +1902,9 @@
    }
   }
  },
+ "groups": [],
+ "by_day_g": {},
+ "by_day_ap_g": {},
  "harvests": {
   "by_zone": {
    "1": {
@@ -1954,12 +1957,23 @@
    },
    "PM": {}
   },
-  "untimed": 0
+  "untimed": 0,
+  "by_zone_g": {},
+  "by_zone_ap_g": {
+   "AM": {},
+   "PM": {}
+  }
  },
  "totals": {
   "timesheet_rows": 52,
   "seen": 42,
   "page_footer_seen": 42
+ },
+ "unplaced": {
+  "sits": 0,
+  "harvests": 0,
+  "by_day": {},
+  "harvests_by_class": {}
  },
  "notes": [
   "zone 'Zone 1': no 'Acres' in description; estimated 131.9 ac from the polygon",

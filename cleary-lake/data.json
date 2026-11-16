@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 7 \u00b7 Cleary Lake Regional Park",
- "built_at": "2026-11-16T12:56:04-06:00",
- "built_at_label": "Nov 16, 2026 12:56 PM CT",
- "snapshot_label": "Nov 16, 2026 12:56 PM CT",
+ "built_at": "2026-11-16T14:37:20-06:00",
+ "built_at_label": "Nov 16, 2026 2:37 PM CT",
+ "snapshot_label": "Nov 16, 2026 2:37 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 12:56 PM CT",
+ "open_sessions_now_label": "Nov 16 2:37 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-09-25",
@@ -3579,580 +3579,16 @@
     ]
    ],
    "grid_cell": 2.074675908910909e-06
-  },
-  {
-   "id": "Alternates",
-   "name": "Zone Alternates",
-   "acres": null,
-   "geometry": {
-    "type": "MultiPolygon",
-    "coordinates": [
-     [
-      [
-       [
-        -93.395,
-        44.691523
-       ],
-       [
-        -93.394175,
-        44.691485
-       ],
-       [
-        -93.393365,
-        44.691369
-       ],
-       [
-        -93.392582,
-        44.691179
-       ],
-       [
-        -93.391841,
-        44.690917
-       ],
-       [
-        -93.391154,
-        44.690589
-       ],
-       [
-        -93.390533,
-        44.690198
-       ],
-       [
-        -93.389988,
-        44.689754
-       ],
-       [
-        -93.389529,
-        44.689262
-       ],
-       [
-        -93.389163,
-        44.688731
-       ],
-       [
-        -93.388898,
-        44.688171
-       ],
-       [
-        -93.388736,
-        44.68759
-       ],
-       [
-        -93.388682,
-        44.687
-       ],
-       [
-        -93.388736,
-        44.68641
-       ],
-       [
-        -93.388898,
-        44.685829
-       ],
-       [
-        -93.389163,
-        44.685269
-       ],
-       [
-        -93.389529,
-        44.684738
-       ],
-       [
-        -93.389988,
-        44.684246
-       ],
-       [
-        -93.390533,
-        44.683802
-       ],
-       [
-        -93.391154,
-        44.683411
-       ],
-       [
-        -93.391841,
-        44.683083
-       ],
-       [
-        -93.392582,
-        44.682821
-       ],
-       [
-        -93.393365,
-        44.682631
-       ],
-       [
-        -93.394175,
-        44.682515
-       ],
-       [
-        -93.395,
-        44.682477
-       ],
-       [
-        -93.395825,
-        44.682515
-       ],
-       [
-        -93.396635,
-        44.682631
-       ],
-       [
-        -93.397418,
-        44.682821
-       ],
-       [
-        -93.398159,
-        44.683083
-       ],
-       [
-        -93.398846,
-        44.683411
-       ],
-       [
-        -93.399467,
-        44.683802
-       ],
-       [
-        -93.400012,
-        44.684246
-       ],
-       [
-        -93.400471,
-        44.684738
-       ],
-       [
-        -93.400837,
-        44.685269
-       ],
-       [
-        -93.401102,
-        44.685829
-       ],
-       [
-        -93.401264,
-        44.68641
-       ],
-       [
-        -93.401318,
-        44.687
-       ],
-       [
-        -93.401264,
-        44.68759
-       ],
-       [
-        -93.401102,
-        44.688171
-       ],
-       [
-        -93.400837,
-        44.688731
-       ],
-       [
-        -93.400471,
-        44.689262
-       ],
-       [
-        -93.400012,
-        44.689754
-       ],
-       [
-        -93.399467,
-        44.690198
-       ],
-       [
-        -93.398846,
-        44.690589
-       ],
-       [
-        -93.398159,
-        44.690917
-       ],
-       [
-        -93.397418,
-        44.691179
-       ],
-       [
-        -93.396635,
-        44.691369
-       ],
-       [
-        -93.395825,
-        44.691485
-       ],
-       [
-        -93.395,
-        44.691523
-       ]
-      ]
-     ]
-    ]
-   },
-   "label": [
-    44.687075,
-    -93.395105
-   ],
-   "heat_points": [
-    [
-     44.68313,
-     -93.397977
-    ],
-    [
-     44.683337,
-     -93.396833
-    ],
-    [
-     44.682661,
-     -93.395216
-    ],
-    [
-     44.683304,
-     -93.394022
-    ],
-    [
-     44.683099,
-     -93.3919
-    ],
-    [
-     44.683771,
-     -93.398878
-    ],
-    [
-     44.683993,
-     -93.397292
-    ],
-    [
-     44.683719,
-     -93.396065
-    ],
-    [
-     44.684063,
-     -93.394734
-    ],
-    [
-     44.684168,
-     -93.394143
-    ],
-    [
-     44.683863,
-     -93.39199
-    ],
-    [
-     44.683623,
-     -93.391155
-    ],
-    [
-     44.685074,
-     -93.399646
-    ],
-    [
-     44.684784,
-     -93.398039
-    ],
-    [
-     44.684895,
-     -93.396528
-    ],
-    [
-     44.684753,
-     -93.395136
-    ],
-    [
-     44.68526,
-     -93.393392
-    ],
-    [
-     44.685123,
-     -93.392211
-    ],
-    [
-     44.684778,
-     -93.390549
-    ],
-    [
-     44.685977,
-     -93.400473
-    ],
-    [
-     44.685929,
-     -93.398806
-    ],
-    [
-     44.685745,
-     -93.39761
-    ],
-    [
-     44.685966,
-     -93.396832
-    ],
-    [
-     44.685654,
-     -93.394702
-    ],
-    [
-     44.685757,
-     -93.393423
-    ],
-    [
-     44.68618,
-     -93.392716
-    ],
-    [
-     44.685872,
-     -93.391385
-    ],
-    [
-     44.686096,
-     -93.389331
-    ],
-    [
-     44.686607,
-     -93.400327
-    ],
-    [
-     44.68677,
-     -93.399643
-    ],
-    [
-     44.687236,
-     -93.397462
-    ],
-    [
-     44.686751,
-     -93.39654
-    ],
-    [
-     44.686868,
-     -93.394936
-    ],
-    [
-     44.687009,
-     -93.394208
-    ],
-    [
-     44.687055,
-     -93.391808
-    ],
-    [
-     44.686585,
-     -93.390644
-    ],
-    [
-     44.687272,
-     -93.389378
-    ],
-    [
-     44.68777,
-     -93.400877
-    ],
-    [
-     44.687989,
-     -93.399511
-    ],
-    [
-     44.688188,
-     -93.398016
-    ],
-    [
-     44.687947,
-     -93.396257
-    ],
-    [
-     44.687681,
-     -93.394773
-    ],
-    [
-     44.687851,
-     -93.393951
-    ],
-    [
-     44.687864,
-     -93.392402
-    ],
-    [
-     44.687773,
-     -93.390352
-    ],
-    [
-     44.688176,
-     -93.389117
-    ],
-    [
-     44.689054,
-     -93.399764
-    ],
-    [
-     44.688639,
-     -93.39786
-    ],
-    [
-     44.688859,
-     -93.396006
-    ],
-    [
-     44.688881,
-     -93.395351
-    ],
-    [
-     44.688695,
-     -93.39404
-    ],
-    [
-     44.689023,
-     -93.392122
-    ],
-    [
-     44.689087,
-     -93.391333
-    ],
-    [
-     44.690056,
-     -93.398927
-    ],
-    [
-     44.689901,
-     -93.397526
-    ],
-    [
-     44.689604,
-     -93.396489
-    ],
-    [
-     44.69,
-     -93.394873
-    ],
-    [
-     44.690004,
-     -93.393372
-    ],
-    [
-     44.689539,
-     -93.392289
-    ],
-    [
-     44.690027,
-     -93.390728
-    ],
-    [
-     44.690539,
-     -93.398684
-    ],
-    [
-     44.69086,
-     -93.396942
-    ],
-    [
-     44.691253,
-     -93.395129
-    ],
-    [
-     44.690942,
-     -93.393161
-    ],
-    [
-     44.690569,
-     -93.391331
-    ]
-   ],
-   "grid_points": [
-    [
-     44.683417,
-     -93.397351
-    ],
-    [
-     44.683417,
-     -93.394706
-    ],
-    [
-     44.683417,
-     -93.392061
-    ],
-    [
-     44.685298,
-     -93.399996
-    ],
-    [
-     44.685298,
-     -93.397351
-    ],
-    [
-     44.685298,
-     -93.394706
-    ],
-    [
-     44.685298,
-     -93.392061
-    ],
-    [
-     44.685298,
-     -93.389416
-    ],
-    [
-     44.687178,
-     -93.399996
-    ],
-    [
-     44.687178,
-     -93.397351
-    ],
-    [
-     44.687178,
-     -93.394706
-    ],
-    [
-     44.687178,
-     -93.392061
-    ],
-    [
-     44.687178,
-     -93.389416
-    ],
-    [
-     44.689058,
-     -93.399996
-    ],
-    [
-     44.689058,
-     -93.397351
-    ],
-    [
-     44.689058,
-     -93.394706
-    ],
-    [
-     44.689058,
-     -93.392061
-    ],
-    [
-     44.689058,
-     -93.389416
-    ],
-    [
-     44.690939,
-     -93.397351
-    ],
-    [
-     44.690939,
-     -93.394706
-    ],
-    [
-     44.690939,
-     -93.392061
-    ]
-   ],
-   "grid_cell": 3.0305278263161504e-06,
-   "approx": true
   }
  ],
  "parking": [],
  "by_day": {
   "2026-09-24": {
    "1": {
-    "sessions": 4,
+    "sessions": 5,
     "open": 0,
     "zero_len": 0,
-    "hours": 10.833,
+    "hours": 12.8,
     "seen_all": 4,
     "seen_rate": 4
    },
@@ -4171,24 +3607,16 @@
     "hours": 5.683,
     "seen_all": 0,
     "seen_rate": 0
-   },
-   "Alternates": {
-    "sessions": 1,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 1.967,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-09-25": {
    "1": {
-    "sessions": 7,
+    "sessions": 9,
     "open": 0,
     "zero_len": 0,
-    "hours": 51.567,
-    "seen_all": 7,
-    "seen_rate": 7
+    "hours": 60.55,
+    "seen_all": 9,
+    "seen_rate": 9
    },
    "2": {
     "sessions": 17,
@@ -4205,24 +3633,16 @@
     "hours": 30.133,
     "seen_all": 8,
     "seen_rate": 8
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 8.983,
-    "seen_all": 2,
-    "seen_rate": 2
    }
   },
   "2026-09-26": {
    "1": {
-    "sessions": 3,
+    "sessions": 6,
     "open": 0,
     "zero_len": 0,
-    "hours": 9.067,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 15.083,
+    "seen_all": 1,
+    "seen_rate": 1
    },
    "2": {
     "sessions": 9,
@@ -4239,22 +3659,14 @@
     "hours": 20.15,
     "seen_all": 4,
     "seen_rate": 4
-   },
-   "Alternates": {
-    "sessions": 3,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 6.017,
-    "seen_all": 1,
-    "seen_rate": 1
    }
   },
   "2026-09-27": {
    "1": {
-    "sessions": 5,
+    "sessions": 7,
     "open": 0,
     "zero_len": 0,
-    "hours": 36.567,
+    "hours": 45.967,
     "seen_all": 0,
     "seen_rate": 0
    },
@@ -4273,14 +3685,6 @@
     "hours": 16.433,
     "seen_all": 3,
     "seen_rate": 3
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 9.4,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-10-05": {
@@ -4304,7 +3708,7 @@
    }
   },
   "2026-10-22": {
-   "Alternates": {
+   "1": {
     "sessions": 1,
     "open": 0,
     "zero_len": 0,
@@ -4314,7 +3718,7 @@
    }
   },
   "2026-10-23": {
-   "Alternates": {
+   "1": {
     "sessions": 1,
     "open": 0,
     "zero_len": 0,
@@ -4351,10 +3755,10 @@
   },
   "2026-10-30": {
    "1": {
-    "sessions": 6,
+    "sessions": 8,
     "open": 0,
     "zero_len": 0,
-    "hours": 63.467,
+    "hours": 72.0,
     "seen_all": 15,
     "seen_rate": 15
    },
@@ -4373,24 +3777,16 @@
     "hours": 49.317,
     "seen_all": 9,
     "seen_rate": 9
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 8.533,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-10-31": {
    "1": {
-    "sessions": 4,
+    "sessions": 6,
     "open": 0,
     "zero_len": 0,
-    "hours": 49.567,
-    "seen_all": 8,
-    "seen_rate": 8
+    "hours": 58.383,
+    "seen_all": 9,
+    "seen_rate": 9
    },
    "2": {
     "sessions": 15,
@@ -4407,24 +3803,16 @@
     "hours": 33.367,
     "seen_all": 6,
     "seen_rate": 6
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 8.817,
-    "seen_all": 1,
-    "seen_rate": 1
    }
   },
   "2026-11-01": {
    "1": {
-    "sessions": 8,
+    "sessions": 10,
     "open": 0,
     "zero_len": 0,
-    "hours": 58.983,
-    "seen_all": 9,
-    "seen_rate": 9
+    "hours": 64.05,
+    "seen_all": 10,
+    "seen_rate": 10
    },
    "2": {
     "sessions": 18,
@@ -4441,27 +3829,19 @@
     "hours": 34.15,
     "seen_all": 3,
     "seen_rate": 3
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 5.067,
-    "seen_all": 1,
-    "seen_rate": 1
    }
   }
  },
  "by_day_ap": {
   "PM": {
    "2026-11-01": {
-    "Alternates": {
-     "sessions": 1,
+    "1": {
+     "sessions": 2,
      "open": 0,
      "zero_len": 0,
-     "hours": 0.933,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 4.267,
+     "seen_all": 3,
+     "seen_rate": 3
     },
     "2": {
      "sessions": 8,
@@ -4470,14 +3850,6 @@
      "hours": 32.217,
      "seen_all": 0,
      "seen_rate": 0
-    },
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.333,
-     "seen_all": 3,
-     "seen_rate": 3
     },
     "3": {
      "sessions": 1,
@@ -4497,7 +3869,7 @@
      "seen_all": 4,
      "seen_rate": 4
     },
-    "Alternates": {
+    "1": {
      "sessions": 1,
      "open": 0,
      "zero_len": 0,
@@ -4516,10 +3888,10 @@
    },
    "2026-10-30": {
     "1": {
-     "sessions": 1,
+     "sessions": 2,
      "open": 0,
      "zero_len": 0,
-     "hours": 3.65,
+     "hours": 8.517,
      "seen_all": 5,
      "seen_rate": 5
     },
@@ -4536,14 +3908,6 @@
      "open": 0,
      "zero_len": 0,
      "hours": 20.167,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.867,
      "seen_all": 0,
      "seen_rate": 0
     }
@@ -4575,7 +3939,7 @@
     }
    },
    "2026-10-22": {
-    "Alternates": {
+    "1": {
      "sessions": 1,
      "open": 0,
      "zero_len": 0,
@@ -4603,11 +3967,11 @@
      "seen_all": 1,
      "seen_rate": 1
     },
-    "Alternates": {
-     "sessions": 1,
+    "1": {
+     "sessions": 3,
      "open": 0,
      "zero_len": 0,
-     "hours": 4.633,
+     "hours": 14.85,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -4618,22 +3982,14 @@
      "hours": 35.333,
      "seen_all": 3,
      "seen_rate": 3
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.217,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-26": {
     "1": {
-     "sessions": 1,
+     "sessions": 2,
      "open": 0,
      "zero_len": 0,
-     "hours": 2.0,
+     "hours": 2.033,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -4644,22 +4000,14 @@
      "hours": 0.7,
      "seen_all": 0,
      "seen_rate": 0
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.033,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-25": {
     "1": {
-     "sessions": 3,
+     "sessions": 4,
      "open": 0,
      "zero_len": 0,
-     "hours": 11.917,
+     "hours": 15.917,
      "seen_all": 5,
      "seen_rate": 5
     },
@@ -4678,14 +4026,6 @@
      "hours": 46.85,
      "seen_all": 6,
      "seen_rate": 6
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.0,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-24": {
@@ -4705,19 +4045,11 @@
      "seen_all": 0,
      "seen_rate": 0
     },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.967,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
     "1": {
-     "sessions": 4,
+     "sessions": 5,
      "open": 0,
      "zero_len": 0,
-     "hours": 10.833,
+     "hours": 12.8,
      "seen_all": 4,
      "seen_rate": 4
     }
@@ -4726,12 +4058,12 @@
   "AM": {
    "2026-11-01": {
     "1": {
-     "sessions": 7,
+     "sessions": 8,
      "open": 0,
      "zero_len": 0,
-     "hours": 55.65,
-     "seen_all": 6,
-     "seen_rate": 6
+     "hours": 59.783,
+     "seen_all": 7,
+     "seen_rate": 7
     },
     "2": {
      "sessions": 10,
@@ -4748,14 +4080,6 @@
      "hours": 30.8,
      "seen_all": 3,
      "seen_rate": 3
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.133,
-     "seen_all": 1,
-     "seen_rate": 1
     }
    },
    "2026-10-31": {
@@ -4776,20 +4100,12 @@
      "seen_rate": 5
     },
     "1": {
-     "sessions": 4,
+     "sessions": 5,
      "open": 0,
      "zero_len": 0,
-     "hours": 49.567,
+     "hours": 54.833,
      "seen_all": 8,
      "seen_rate": 8
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.267,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-10-30": {
@@ -4810,20 +4126,12 @@
      "seen_rate": 9
     },
     "1": {
-     "sessions": 5,
+     "sessions": 6,
      "open": 0,
      "zero_len": 0,
-     "hours": 59.817,
+     "hours": 63.483,
      "seen_all": 10,
      "seen_rate": 10
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.667,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-10-29": {
@@ -4845,7 +4153,7 @@
     }
    },
    "2026-10-23": {
-    "Alternates": {
+    "1": {
      "sessions": 1,
      "open": 0,
      "zero_len": 0,
@@ -4866,10 +4174,10 @@
    },
    "2026-09-27": {
     "1": {
-     "sessions": 3,
+     "sessions": 4,
      "open": 0,
      "zero_len": 0,
-     "hours": 26.35,
+     "hours": 31.117,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -4888,14 +4196,6 @@
      "hours": 9.35,
      "seen_all": 2,
      "seen_rate": 2
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.767,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-26": {
@@ -4907,21 +4207,13 @@
      "seen_all": 3,
      "seen_rate": 3
     },
-    "Alternates": {
-     "sessions": 2,
+    "1": {
+     "sessions": 4,
      "open": 0,
      "zero_len": 0,
-     "hours": 5.983,
+     "hours": 13.05,
      "seen_all": 1,
      "seen_rate": 1
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.067,
-     "seen_all": 0,
-     "seen_rate": 0
     },
     "3": {
      "sessions": 5,
@@ -4950,20 +4242,12 @@
      "seen_rate": 5
     },
     "1": {
-     "sessions": 4,
+     "sessions": 5,
      "open": 0,
      "zero_len": 0,
-     "hours": 39.65,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.983,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 44.633,
+     "seen_all": 4,
+     "seen_rate": 4
     }
    },
    "2026-09-24": {
@@ -4978,10 +4262,13 @@
    }
   }
  },
+ "groups": [],
+ "by_day_g": {},
+ "by_day_ap_g": {},
  "harvests": {
   "by_zone": {
    "1": {
-    "Adult Doe": 2,
+    "Adult Doe": 3,
     "Fawn Doe": 1,
     "Fawn Buck": 0,
     "Adult Buck": 0
@@ -4997,12 +4284,6 @@
     "Fawn Doe": 0,
     "Fawn Buck": 0,
     "Adult Buck": 2
-   },
-   "Alternates": {
-    "Adult Doe": 1,
-    "Fawn Doe": 0,
-    "Fawn Buck": 0,
-    "Adult Buck": 0
    }
   },
   "classes": [
@@ -5028,13 +4309,7 @@
      "Adult Buck": 2
     },
     "1": {
-     "Adult Doe": 1,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
-    },
-    "Alternates": {
-     "Adult Doe": 1,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
@@ -5055,12 +4330,23 @@
     }
    }
   },
-  "untimed": 0
+  "untimed": 0,
+  "by_zone_g": {},
+  "by_zone_ap_g": {
+   "AM": {},
+   "PM": {}
+  }
  },
  "totals": {
   "timesheet_rows": 221,
   "seen": 137,
   "page_footer_seen": 137
+ },
+ "unplaced": {
+  "sits": 0,
+  "harvests": 0,
+  "by_day": {},
+  "harvests_by_class": {}
  },
  "notes": [
   "zone 'Zone 1': no 'Acres' in description; estimated 193.9 ac from the polygon",
@@ -5073,7 +4359,8 @@
   "skipped non-parking point feature named 'Cleary'",
   "skipped non-parking point feature named 'Cleary'",
   "skipped non-parking point feature named 'Cleary'",
-  "expected -1 zones, found 4",
+  "16 Alternate sits assigned by stand pin in zone polygon (16 to zone 1); 1 Alternate harvest assigned by stand pin in zone polygon (1 to zone 1)",
+  "expected -1 zones, found 3",
   "expected -1 parking points, found 0",
   "2 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "39 rows on stand-setup days (2026-09-24, 2026-10-29) excluded from hunt-day totals",
@@ -5082,8 +4369,8 @@
  "recovery": {
   "by_zone": {
    "1": {
-    "n": 3,
-    "rec": 2,
+    "n": 4,
+    "rec": 3,
     "other": {
      "Wounded": 1
     }
@@ -5098,11 +4385,6 @@
    "3": {
     "n": 4,
     "rec": 4,
-    "other": {}
-   },
-   "Alternates": {
-    "n": 1,
-    "rec": 1,
     "other": {}
    }
   },

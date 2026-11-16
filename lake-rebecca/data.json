@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 9 \u00b7 Lake Rebecca Park Reserve",
- "built_at": "2026-11-16T12:56:00-06:00",
- "built_at_label": "Nov 16, 2026 12:56 PM CT",
- "snapshot_label": "Nov 16, 2026 12:55 PM CT",
+ "built_at": "2026-11-16T14:37:17-06:00",
+ "built_at_label": "Nov 16, 2026 2:37 PM CT",
+ "snapshot_label": "Nov 16, 2026 2:37 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 12:55 PM CT",
+ "open_sessions_now_label": "Nov 16 2:37 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-09-25",
@@ -7707,582 +7707,6 @@
     ]
    ],
    "grid_cell": 7.116248669167123e-06
-  },
-  {
-   "id": "Alternates",
-   "name": "Zone Alternates",
-   "acres": null,
-   "geometry": {
-    "type": "MultiPolygon",
-    "coordinates": [
-     [
-      [
-       [
-        -93.74,
-        45.070523
-       ],
-       [
-        -93.73917,
-        45.070485
-       ],
-       [
-        -93.738354,
-        45.070369
-       ],
-       [
-        -93.737566,
-        45.070179
-       ],
-       [
-        -93.73682,
-        45.069917
-       ],
-       [
-        -93.736129,
-        45.069589
-       ],
-       [
-        -93.735503,
-        45.069198
-       ],
-       [
-        -93.734955,
-        45.068754
-       ],
-       [
-        -93.734493,
-        45.068262
-       ],
-       [
-        -93.734125,
-        45.067731
-       ],
-       [
-        -93.733857,
-        45.067171
-       ],
-       [
-        -93.733695,
-        45.06659
-       ],
-       [
-        -93.733641,
-        45.066
-       ],
-       [
-        -93.733695,
-        45.06541
-       ],
-       [
-        -93.733857,
-        45.064829
-       ],
-       [
-        -93.734125,
-        45.064269
-       ],
-       [
-        -93.734493,
-        45.063738
-       ],
-       [
-        -93.734955,
-        45.063246
-       ],
-       [
-        -93.735503,
-        45.062802
-       ],
-       [
-        -93.736129,
-        45.062411
-       ],
-       [
-        -93.73682,
-        45.062083
-       ],
-       [
-        -93.737566,
-        45.061821
-       ],
-       [
-        -93.738354,
-        45.061631
-       ],
-       [
-        -93.73917,
-        45.061515
-       ],
-       [
-        -93.74,
-        45.061477
-       ],
-       [
-        -93.74083,
-        45.061515
-       ],
-       [
-        -93.741646,
-        45.061631
-       ],
-       [
-        -93.742434,
-        45.061821
-       ],
-       [
-        -93.74318,
-        45.062083
-       ],
-       [
-        -93.743871,
-        45.062411
-       ],
-       [
-        -93.744497,
-        45.062802
-       ],
-       [
-        -93.745045,
-        45.063246
-       ],
-       [
-        -93.745507,
-        45.063738
-       ],
-       [
-        -93.745875,
-        45.064269
-       ],
-       [
-        -93.746143,
-        45.064829
-       ],
-       [
-        -93.746305,
-        45.06541
-       ],
-       [
-        -93.746359,
-        45.066
-       ],
-       [
-        -93.746305,
-        45.06659
-       ],
-       [
-        -93.746143,
-        45.067171
-       ],
-       [
-        -93.745875,
-        45.067731
-       ],
-       [
-        -93.745507,
-        45.068262
-       ],
-       [
-        -93.745045,
-        45.068754
-       ],
-       [
-        -93.744497,
-        45.069198
-       ],
-       [
-        -93.743871,
-        45.069589
-       ],
-       [
-        -93.74318,
-        45.069917
-       ],
-       [
-        -93.742434,
-        45.070179
-       ],
-       [
-        -93.741646,
-        45.070369
-       ],
-       [
-        -93.74083,
-        45.070485
-       ],
-       [
-        -93.74,
-        45.070523
-       ]
-      ]
-     ]
-    ]
-   },
-   "label": [
-    45.066075,
-    -93.740106
-   ],
-   "heat_points": [
-    [
-     45.061743,
-     -93.741282
-    ],
-    [
-     45.061921,
-     -93.740134
-    ],
-    [
-     45.061786,
-     -93.739127
-    ],
-    [
-     45.062176,
-     -93.737539
-    ],
-    [
-     45.063063,
-     -93.744613
-    ],
-    [
-     45.062893,
-     -93.743267
-    ],
-    [
-     45.062863,
-     -93.741761
-    ],
-    [
-     45.062891,
-     -93.739921
-    ],
-    [
-     45.06273,
-     -93.738465
-    ],
-    [
-     45.06293,
-     -93.737415
-    ],
-    [
-     45.062955,
-     -93.735589
-    ],
-    [
-     45.063729,
-     -93.745398
-    ],
-    [
-     45.063893,
-     -93.744606
-    ],
-    [
-     45.063756,
-     -93.742696
-    ],
-    [
-     45.064336,
-     -93.741699
-    ],
-    [
-     45.064022,
-     -93.739728
-    ],
-    [
-     45.064106,
-     -93.739036
-    ],
-    [
-     45.063826,
-     -93.737591
-    ],
-    [
-     45.06365,
-     -93.73549
-    ],
-    [
-     45.065248,
-     -93.745513
-    ],
-    [
-     45.065249,
-     -93.744334
-    ],
-    [
-     45.065216,
-     -93.742671
-    ],
-    [
-     45.064813,
-     -93.741428
-    ],
-    [
-     45.064674,
-     -93.739567
-    ],
-    [
-     45.064651,
-     -93.739003
-    ],
-    [
-     45.064994,
-     -93.737107
-    ],
-    [
-     45.065311,
-     -93.735455
-    ],
-    [
-     45.065088,
-     -93.734889
-    ],
-    [
-     45.06576,
-     -93.7456
-    ],
-    [
-     45.065976,
-     -93.744296
-    ],
-    [
-     45.065931,
-     -93.742856
-    ],
-    [
-     45.066,
-     -93.741735
-    ],
-    [
-     45.065606,
-     -93.740275
-    ],
-    [
-     45.065837,
-     -93.738935
-    ],
-    [
-     45.065986,
-     -93.737761
-    ],
-    [
-     45.065579,
-     -93.735735
-    ],
-    [
-     45.066117,
-     -93.734867
-    ],
-    [
-     45.067035,
-     -93.745831
-    ],
-    [
-     45.066787,
-     -93.74384
-    ],
-    [
-     45.0673,
-     -93.743218
-    ],
-    [
-     45.066556,
-     -93.741644
-    ],
-    [
-     45.067206,
-     -93.740455
-    ],
-    [
-     45.066745,
-     -93.738934
-    ],
-    [
-     45.066699,
-     -93.73716
-    ],
-    [
-     45.067014,
-     -93.736066
-    ],
-    [
-     45.066678,
-     -93.734939
-    ],
-    [
-     45.067533,
-     -93.745546
-    ],
-    [
-     45.067881,
-     -93.744437
-    ],
-    [
-     45.067851,
-     -93.742913
-    ],
-    [
-     45.068033,
-     -93.741342
-    ],
-    [
-     45.068211,
-     -93.73984
-    ],
-    [
-     45.068279,
-     -93.739012
-    ],
-    [
-     45.068174,
-     -93.737018
-    ],
-    [
-     45.06769,
-     -93.736256
-    ],
-    [
-     45.067836,
-     -93.734816
-    ],
-    [
-     45.068635,
-     -93.744291
-    ],
-    [
-     45.068559,
-     -93.742678
-    ],
-    [
-     45.068566,
-     -93.741617
-    ],
-    [
-     45.068596,
-     -93.739505
-    ],
-    [
-     45.068888,
-     -93.738588
-    ],
-    [
-     45.069109,
-     -93.736846
-    ],
-    [
-     45.068534,
-     -93.735727
-    ],
-    [
-     45.069982,
-     -93.742914
-    ],
-    [
-     45.069513,
-     -93.741998
-    ],
-    [
-     45.070117,
-     -93.739995
-    ],
-    [
-     45.069741,
-     -93.738584
-    ],
-    [
-     45.069864,
-     -93.737363
-    ],
-    [
-     45.069575,
-     -93.736412
-    ]
-   ],
-   "grid_points": [
-    [
-     45.062417,
-     -93.742366
-    ],
-    [
-     45.062417,
-     -93.739703
-    ],
-    [
-     45.062417,
-     -93.737041
-    ],
-    [
-     45.064298,
-     -93.745028
-    ],
-    [
-     45.064298,
-     -93.742366
-    ],
-    [
-     45.064298,
-     -93.739703
-    ],
-    [
-     45.064298,
-     -93.737041
-    ],
-    [
-     45.064298,
-     -93.734379
-    ],
-    [
-     45.066178,
-     -93.745028
-    ],
-    [
-     45.066178,
-     -93.742366
-    ],
-    [
-     45.066178,
-     -93.739703
-    ],
-    [
-     45.066178,
-     -93.737041
-    ],
-    [
-     45.066178,
-     -93.734379
-    ],
-    [
-     45.068058,
-     -93.745028
-    ],
-    [
-     45.068058,
-     -93.742366
-    ],
-    [
-     45.068058,
-     -93.739703
-    ],
-    [
-     45.068058,
-     -93.737041
-    ],
-    [
-     45.068058,
-     -93.734379
-    ],
-    [
-     45.069939,
-     -93.742366
-    ],
-    [
-     45.069939,
-     -93.739703
-    ],
-    [
-     45.069939,
-     -93.737041
-    ]
-   ],
-   "grid_cell": 3.0304677780111976e-06,
-   "approx": true
   }
  ],
  "parking": [
@@ -8376,10 +7800,10 @@
     "seen_rate": 2
    },
    "2": {
-    "sessions": 13,
+    "sessions": 14,
     "open": 0,
     "zero_len": 0,
-    "hours": 25.4,
+    "hours": 26.817,
     "seen_all": 7,
     "seen_rate": 7
    },
@@ -8406,14 +7830,6 @@
     "hours": 25.4,
     "seen_all": 2,
     "seen_rate": 2
-   },
-   "Alternates": {
-    "sessions": 1,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 1.417,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-09-25": {
@@ -8426,10 +7842,10 @@
     "seen_rate": 25
    },
    "2": {
-    "sessions": 25,
+    "sessions": 27,
     "open": 0,
     "zero_len": 0,
-    "hours": 156.15,
+    "hours": 164.3,
     "seen_all": 14,
     "seen_rate": 14
    },
@@ -8456,14 +7872,6 @@
     "hours": 101.2,
     "seen_all": 23,
     "seen_rate": 23
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 8.15,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-09-26": {
@@ -8476,10 +7884,10 @@
     "seen_rate": 15
    },
    "2": {
-    "sessions": 23,
+    "sessions": 25,
     "open": 0,
     "zero_len": 0,
-    "hours": 94.933,
+    "hours": 102.433,
     "seen_all": 10,
     "seen_rate": 10
    },
@@ -8506,14 +7914,6 @@
     "hours": 57.95,
     "seen_all": 23,
     "seen_rate": 23
-   },
-   "Alternates": {
-    "sessions": 2,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 7.5,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-09-27": {
@@ -8526,10 +7926,10 @@
     "seen_rate": 9
    },
    "2": {
-    "sessions": 25,
+    "sessions": 26,
     "open": 0,
     "zero_len": 0,
-    "hours": 137.933,
+    "hours": 141.05,
     "seen_all": 9,
     "seen_rate": 9
    },
@@ -8556,14 +7956,6 @@
     "hours": 94.133,
     "seen_all": 7,
     "seen_rate": 7
-   },
-   "Alternates": {
-    "sessions": 1,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 3.117,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-09-28": {
@@ -8616,10 +8008,10 @@
     "seen_rate": 0
    },
    "2": {
-    "sessions": 12,
+    "sessions": 13,
     "open": 0,
     "zero_len": 0,
-    "hours": 24.133,
+    "hours": 25.65,
     "seen_all": 0,
     "seen_rate": 0
    },
@@ -8646,14 +8038,6 @@
     "hours": 21.05,
     "seen_all": 0,
     "seen_rate": 0
-   },
-   "Alternates": {
-    "sessions": 1,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 1.517,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   },
   "2026-10-30": {
@@ -8666,12 +8050,12 @@
     "seen_rate": 33
    },
    "2": {
-    "sessions": 19,
+    "sessions": 22,
     "open": 0,
     "zero_len": 0,
-    "hours": 141.5,
-    "seen_all": 23,
-    "seen_rate": 23
+    "hours": 155.883,
+    "seen_all": 24,
+    "seen_rate": 24
    },
    "3": {
     "sessions": 11,
@@ -8696,14 +8080,6 @@
     "hours": 99.833,
     "seen_all": 39,
     "seen_rate": 39
-   },
-   "Alternates": {
-    "sessions": 3,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 14.383,
-    "seen_all": 1,
-    "seen_rate": 1
    }
   },
   "2026-10-31": {
@@ -8716,12 +8092,12 @@
     "seen_rate": 12
    },
    "2": {
-    "sessions": 20,
+    "sessions": 23,
     "open": 0,
     "zero_len": 0,
-    "hours": 118.633,
-    "seen_all": 8,
-    "seen_rate": 8
+    "hours": 131.017,
+    "seen_all": 9,
+    "seen_rate": 9
    },
    "3": {
     "sessions": 10,
@@ -8746,14 +8122,6 @@
     "hours": 71.367,
     "seen_all": 11,
     "seen_rate": 11
-   },
-   "Alternates": {
-    "sessions": 3,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 12.383,
-    "seen_all": 1,
-    "seen_rate": 1
    }
   },
   "2026-11-01": {
@@ -8766,10 +8134,10 @@
     "seen_rate": 6
    },
    "2": {
-    "sessions": 20,
+    "sessions": 21,
     "open": 0,
     "zero_len": 1,
-    "hours": 105.35,
+    "hours": 111.617,
     "seen_all": 13,
     "seen_rate": 13
    },
@@ -8796,14 +8164,6 @@
     "hours": 64.883,
     "seen_all": 10,
     "seen_rate": 10
-   },
-   "Alternates": {
-    "sessions": 1,
-    "open": 0,
-    "zero_len": 0,
-    "hours": 6.267,
-    "seen_all": 0,
-    "seen_rate": 0
    }
   }
  },
@@ -8853,10 +8213,10 @@
    },
    "2026-10-31": {
     "2": {
-     "sessions": 7,
+     "sessions": 8,
      "open": 0,
      "zero_len": 0,
-     "hours": 22.05,
+     "hours": 24.933,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -8875,14 +8235,6 @@
      "hours": 10.6,
      "seen_all": 1,
      "seen_rate": 1
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.883,
-     "seen_all": 0,
-     "seen_rate": 0
     },
     "3": {
      "sessions": 3,
@@ -8911,12 +8263,12 @@
      "seen_rate": 6
     },
     "2": {
-     "sessions": 5,
+     "sessions": 7,
      "open": 0,
      "zero_len": 0,
-     "hours": 24.3,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 33.1,
+     "seen_all": 3,
+     "seen_rate": 3
     },
     "1": {
      "sessions": 3,
@@ -8925,14 +8277,6 @@
      "hours": 13.383,
      "seen_all": 11,
      "seen_rate": 11
-    },
-    "Alternates": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.8,
-     "seen_all": 1,
-     "seen_rate": 1
     },
     "3": {
      "sessions": 6,
@@ -8960,11 +8304,11 @@
      "seen_all": 0,
      "seen_rate": 0
     },
-    "Alternates": {
-     "sessions": 1,
+    "2": {
+     "sessions": 8,
      "open": 0,
      "zero_len": 0,
-     "hours": 1.517,
+     "hours": 15.967,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -8984,14 +8328,6 @@
      "seen_all": 0,
      "seen_rate": 0
     },
-    "2": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 14.45,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
     "3": {
      "sessions": 3,
      "open": 0,
@@ -9003,20 +8339,12 @@
    },
    "2026-09-27": {
     "2": {
-     "sessions": 11,
+     "sessions": 12,
      "open": 0,
      "zero_len": 0,
-     "hours": 53.2,
+     "hours": 56.317,
      "seen_all": 4,
      "seen_rate": 4
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.117,
-     "seen_all": 0,
-     "seen_rate": 0
     },
     "3": {
      "sessions": 6,
@@ -9060,13 +8388,13 @@
      "seen_all": 12,
      "seen_rate": 12
     },
-    "Alternates": {
-     "sessions": 1,
+    "2": {
+     "sessions": 11,
      "open": 0,
      "zero_len": 0,
-     "hours": 2.883,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 34.783,
+     "seen_all": 7,
+     "seen_rate": 7
     },
     "3": {
      "sessions": 7,
@@ -9091,14 +8419,6 @@
      "hours": 17.15,
      "seen_all": 8,
      "seen_rate": 8
-    },
-    "2": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 31.9,
-     "seen_all": 7,
-     "seen_rate": 7
     }
    },
    "2026-09-25": {
@@ -9126,19 +8446,11 @@
      "seen_all": 11,
      "seen_rate": 11
     },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.517,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
     "2": {
-     "sessions": 12,
+     "sessions": 13,
      "open": 0,
      "zero_len": 0,
-     "hours": 65.883,
+     "hours": 69.4,
      "seen_all": 8,
      "seen_rate": 8
     },
@@ -9168,19 +8480,11 @@
      "seen_all": 0,
      "seen_rate": 0
     },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.417,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
     "2": {
-     "sessions": 12,
+     "sessions": 13,
      "open": 0,
      "zero_len": 0,
-     "hours": 21.583,
+     "hours": 23.0,
      "seen_all": 4,
      "seen_rate": 4
     },
@@ -9213,10 +8517,10 @@
      "seen_rate": 5
     },
     "2": {
-     "sessions": 12,
+     "sessions": 13,
      "open": 0,
      "zero_len": 0,
-     "hours": 80.417,
+     "hours": 86.683,
      "seen_all": 8,
      "seen_rate": 8
     },
@@ -9243,14 +8547,6 @@
      "hours": 84.467,
      "seen_all": 6,
      "seen_rate": 6
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.267,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-10-31": {
@@ -9270,21 +8566,13 @@
      "seen_all": 4,
      "seen_rate": 4
     },
-    "Alternates": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.5,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
     "2": {
-     "sessions": 13,
+     "sessions": 15,
      "open": 0,
      "zero_len": 0,
-     "hours": 96.583,
-     "seen_all": 8,
-     "seen_rate": 8
+     "hours": 106.083,
+     "seen_all": 9,
+     "seen_rate": 9
     },
     "1": {
      "sessions": 9,
@@ -9305,10 +8593,10 @@
    },
    "2026-10-30": {
     "2": {
-     "sessions": 14,
+     "sessions": 15,
      "open": 0,
      "zero_len": 0,
-     "hours": 117.2,
+     "hours": 122.783,
      "seen_all": 21,
      "seen_rate": 21
     },
@@ -9335,14 +8623,6 @@
      "hours": 53.033,
      "seen_all": 5,
      "seen_rate": 5
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.583,
-     "seen_all": 0,
-     "seen_rate": 0
     },
     "3": {
      "sessions": 5,
@@ -9479,10 +8759,10 @@
    },
    "2026-09-26": {
     "2": {
-     "sessions": 13,
+     "sessions": 14,
      "open": 0,
      "zero_len": 0,
-     "hours": 63.033,
+     "hours": 67.65,
      "seen_all": 3,
      "seen_rate": 3
     },
@@ -9517,14 +8797,6 @@
      "hours": 35.317,
      "seen_all": 11,
      "seen_rate": 11
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.617,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-25": {
@@ -9545,10 +8817,10 @@
      "seen_rate": 8
     },
     "2": {
-     "sessions": 13,
+     "sessions": 14,
      "open": 0,
      "zero_len": 0,
-     "hours": 90.267,
+     "hours": 94.9,
      "seen_all": 6,
      "seen_rate": 6
     },
@@ -9567,14 +8839,6 @@
      "hours": 33.15,
      "seen_all": 9,
      "seen_rate": 9
-    },
-    "Alternates": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.633,
-     "seen_all": 0,
-     "seen_rate": 0
     }
    },
    "2026-09-24": {
@@ -9621,6 +8885,9 @@
    }
   }
  },
+ "groups": [],
+ "by_day_g": {},
+ "by_day_ap_g": {},
  "harvests": {
   "by_zone": {
    "1": {
@@ -9633,7 +8900,7 @@
     "Adult Doe": 2,
     "Fawn Doe": 3,
     "Fawn Buck": 1,
-    "Adult Buck": 4
+    "Adult Buck": 5
    },
    "3": {
     "Adult Doe": 1,
@@ -9651,12 +8918,6 @@
     "Adult Doe": 2,
     "Fawn Doe": 3,
     "Fawn Buck": 1,
-    "Adult Buck": 1
-   },
-   "Alternates": {
-    "Adult Doe": 0,
-    "Fawn Doe": 0,
-    "Fawn Buck": 0,
     "Adult Buck": 1
    }
   },
@@ -9680,13 +8941,7 @@
      "Adult Doe": 1,
      "Fawn Doe": 1,
      "Fawn Buck": 0,
-     "Adult Buck": 2
-    },
-    "Alternates": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
+     "Adult Buck": 3
     },
     "4": {
      "Adult Doe": 1,
@@ -9734,12 +8989,23 @@
     }
    }
   },
-  "untimed": 0
+  "untimed": 0,
+  "by_zone_g": {},
+  "by_zone_ap_g": {
+   "AM": {},
+   "PM": {}
+  }
  },
  "totals": {
   "timesheet_rows": 585,
   "seen": 399,
   "page_footer_seen": 399
+ },
+ "unplaced": {
+  "sits": 0,
+  "harvests": 0,
+  "by_day": {},
+  "harvests_by_class": {}
  },
  "notes": [
   "zone 'Zone 1': no 'Acres' in description; estimated 431.6 ac from the polygon",
@@ -9747,7 +9013,8 @@
   "zone 'Zone 3': no 'Acres' in description; estimated 446.9 ac from the polygon",
   "zone 'Zone 4': no 'Acres' in description; estimated 499.4 ac from the polygon",
   "zone 'Zone 5': no 'Acres' in description; estimated 406.2 ac from the polygon",
-  "expected -1 zones, found 6",
+  "14 Alternate sits assigned by stand pin in zone polygon (14 to zone 2); 1 Alternate harvest assigned by stand pin in zone polygon (1 to zone 2)",
+  "expected -1 zones, found 5",
   "expected -1 parking points, found 13",
   "4 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "94 rows on stand-setup days (2026-09-24, 2026-10-29) excluded from hunt-day totals",
@@ -9756,8 +9023,8 @@
  "recovery": {
   "by_zone": {
    "2": {
-    "n": 10,
-    "rec": 9,
+    "n": 11,
+    "rec": 10,
     "other": {
      "Wounded": 1
     }
@@ -9765,11 +9032,6 @@
    "1": {
     "n": 5,
     "rec": 5,
-    "other": {}
-   },
-   "Alternates": {
-    "n": 1,
-    "rec": 1,
     "other": {}
    },
    "4": {

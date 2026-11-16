@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 2 \u00b7 MN River Valley \u2013 Long Meadow Lake",
- "built_at": "2026-11-16T12:56:19-06:00",
- "built_at_label": "Nov 16, 2026 12:56 PM CT",
- "snapshot_label": "Nov 16, 2026 12:56 PM CT",
+ "built_at": "2026-11-16T14:37:29-06:00",
+ "built_at_label": "Nov 16, 2026 2:37 PM CT",
+ "snapshot_label": "Nov 16, 2026 2:37 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 12:56 PM CT",
+ "open_sessions_now_label": "Nov 16 2:37 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-05",
@@ -3968,6 +3968,9 @@
    }
   }
  },
+ "groups": [],
+ "by_day_g": {},
+ "by_day_ap_g": {},
  "harvests": {
   "by_zone": {
    "Central": {
@@ -4033,12 +4036,23 @@
     }
    }
   },
-  "untimed": 0
+  "untimed": 0,
+  "by_zone_g": {},
+  "by_zone_ap_g": {
+   "AM": {},
+   "PM": {}
+  }
  },
  "totals": {
   "timesheet_rows": 146,
   "seen": 149,
   "page_footer_seen": 149
+ },
+ "unplaced": {
+  "sits": 0,
+  "harvests": 0,
+  "by_day": {},
+  "harvests_by_class": {}
  },
  "notes": [
   "skipped non-parking point feature named 'Visitor Center'",

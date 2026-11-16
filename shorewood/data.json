@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 19 \u00b7 Shorewood",
- "built_at": "2026-11-16T12:55:38-06:00",
- "built_at_label": "Nov 16, 2026 12:55 PM CT",
- "snapshot_label": "Nov 16, 2026 12:55 PM CT",
+ "built_at": "2026-11-16T14:37:03-06:00",
+ "built_at_label": "Nov 16, 2026 2:37 PM CT",
+ "snapshot_label": "Nov 16, 2026 2:37 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 12:55 PM CT",
+ "open_sessions_now_label": "Nov 16 2:37 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-09",
@@ -6740,6 +6740,9 @@
    }
   }
  },
+ "groups": [],
+ "by_day_g": {},
+ "by_day_ap_g": {},
  "harvests": {
   "by_zone": {
    "2": {
@@ -6937,12 +6940,23 @@
     }
    }
   },
-  "untimed": 0
+  "untimed": 0,
+  "by_zone_g": {},
+  "by_zone_ap_g": {
+   "AM": {},
+   "PM": {}
+  }
  },
  "totals": {
   "timesheet_rows": 133,
   "seen": 181,
   "page_footer_seen": 181
+ },
+ "unplaced": {
+  "sits": 0,
+  "harvests": 0,
+  "by_day": {},
+  "harvests_by_class": {}
  },
  "notes": [
   "zone 'Zone 2': no 'Acres' in description; estimated 23.5 ac from the polygon",
