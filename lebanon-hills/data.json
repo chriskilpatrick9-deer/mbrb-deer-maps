@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-16T14:37:25-06:00",
- "built_at_label": "Nov 16, 2026 2:37 PM CT",
- "snapshot_label": "Nov 16, 2026 2:37 PM CT",
+ "built_at": "2026-11-16T15:09:49-06:00",
+ "built_at_label": "Nov 16, 2026 3:09 PM CT",
+ "snapshot_label": "Nov 16, 2026 3:09 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:37 PM CT",
- "open_sessions_count": 30,
+ "open_sessions_now_label": "Nov 16 3:09 PM CT",
+ "open_sessions_count": 39,
  "hunt_days": [
   "2026-11-16"
  ],
@@ -5353,16 +5353,16 @@
   },
   "2026-11-16": {
    "1": {
-    "sessions": 4,
+    "sessions": 6,
     "open": 4,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 12.517,
+    "seen_all": 1,
+    "seen_rate": 1
    },
    "2": {
-    "sessions": 5,
-    "open": 4,
+    "sessions": 6,
+    "open": 5,
     "zero_len": 0,
     "hours": 4.65,
     "seen_all": 0,
@@ -5370,47 +5370,47 @@
    },
    "3": {
     "sessions": 6,
-    "open": 6,
+    "open": 4,
     "zero_len": 0,
-    "hours": 0.0,
+    "hours": 11.083,
     "seen_all": 0,
     "seen_rate": 0
    },
    "4": {
-    "sessions": 5,
-    "open": 2,
+    "sessions": 8,
+    "open": 5,
     "zero_len": 0,
     "hours": 12.033,
     "seen_all": 2,
     "seen_rate": 2
    },
    "5": {
-    "sessions": 8,
+    "sessions": 10,
     "open": 6,
     "zero_len": 0,
-    "hours": 5.533,
-    "seen_all": 2,
-    "seen_rate": 2
+    "hours": 20.833,
+    "seen_all": 17,
+    "seen_rate": 17
    },
    "6": {
-    "sessions": 5,
-    "open": 3,
+    "sessions": 7,
+    "open": 4,
     "zero_len": 0,
-    "hours": 11.517,
-    "seen_all": 7,
-    "seen_rate": 7
+    "hours": 19.2,
+    "seen_all": 14,
+    "seen_rate": 14
    },
    "7": {
-    "sessions": 7,
-    "open": 2,
+    "sessions": 11,
+    "open": 6,
     "zero_len": 0,
     "hours": 19.3,
     "seen_all": 9,
     "seen_rate": 9
    },
    "8": {
-    "sessions": 5,
-    "open": 3,
+    "sessions": 7,
+    "open": 5,
     "zero_len": 0,
     "hours": 8.983,
     "seen_all": 5,
@@ -5419,6 +5419,76 @@
   }
  },
  "by_day_ap": {
+  "PM": {
+   "2026-11-16": {
+    "1": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 4,
+     "open": 4,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-15": {
+    "8": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.917,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
   "AM": {
    "2026-11-16": {
     "7": {
@@ -5431,9 +5501,9 @@
     },
     "3": {
      "sessions": 6,
-     "open": 6,
+     "open": 4,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 11.083,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -5455,19 +5525,19 @@
     },
     "1": {
      "sessions": 4,
-     "open": 4,
+     "open": 2,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 12.517,
+     "seen_all": 1,
+     "seen_rate": 1
     },
     "6": {
      "sessions": 5,
-     "open": 3,
+     "open": 2,
      "zero_len": 0,
-     "hours": 11.517,
-     "seen_all": 7,
-     "seen_rate": 7
+     "hours": 19.2,
+     "seen_all": 14,
+     "seen_rate": 14
     },
     "4": {
      "sessions": 5,
@@ -5479,11 +5549,11 @@
     },
     "5": {
      "sessions": 8,
-     "open": 6,
+     "open": 4,
      "zero_len": 0,
-     "hours": 5.533,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 20.833,
+     "seen_all": 17,
+     "seen_rate": 17
     }
    },
    "2026-11-15": {
@@ -5552,18 +5622,6 @@
      "seen_rate": 2
     }
    }
-  },
-  "PM": {
-   "2026-11-15": {
-    "8": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.917,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -5584,8 +5642,8 @@
     "Adult Buck": 0
    },
    "3": {
-    "Adult Doe": 0,
-    "Fawn Doe": 0,
+    "Adult Doe": 1,
+    "Fawn Doe": 1,
     "Fawn Buck": 0,
     "Adult Buck": 0
    },
@@ -5596,16 +5654,16 @@
     "Adult Buck": 0
    },
    "5": {
-    "Adult Doe": 0,
-    "Fawn Doe": 0,
+    "Adult Doe": 1,
+    "Fawn Doe": 1,
     "Fawn Buck": 0,
-    "Adult Buck": 0
+    "Adult Buck": 1
    },
    "6": {
     "Adult Doe": 1,
     "Fawn Doe": 0,
     "Fawn Buck": 0,
-    "Adult Buck": 0
+    "Adult Buck": 1
    },
    "7": {
     "Adult Doe": 0,
@@ -5626,7 +5684,7 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 1,
+  "total": 7,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
@@ -5637,7 +5695,26 @@
      "Adult Buck": 0
     }
    },
-   "PM": {}
+   "PM": {
+    "6": {
+     "Adult Doe": 0,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 1
+    },
+    "5": {
+     "Adult Doe": 1,
+     "Fawn Doe": 1,
+     "Fawn Buck": 0,
+     "Adult Buck": 1
+    },
+    "3": {
+     "Adult Doe": 1,
+     "Fawn Doe": 1,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
+    }
+   }
   },
   "untimed": 0,
   "by_zone_g": {},
@@ -5647,9 +5724,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 82,
-  "seen": 34,
-  "page_footer_seen": 34
+  "timesheet_rows": 98,
+  "seen": 57,
+  "page_footer_seen": 57
  },
  "unplaced": {
   "sits": 0,
@@ -5675,13 +5752,23 @@
  "recovery": {
   "by_zone": {
    "6": {
-    "n": 1,
-    "rec": 1,
+    "n": 2,
+    "rec": 2,
+    "other": {}
+   },
+   "5": {
+    "n": 3,
+    "rec": 3,
+    "other": {}
+   },
+   "3": {
+    "n": 2,
+    "rec": 2,
     "other": {}
    }
   },
-  "n": 1,
-  "rec": 1,
+  "n": 7,
+  "rec": 7,
   "other": {}
  }
 }

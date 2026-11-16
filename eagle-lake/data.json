@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-16T14:37:14-06:00",
- "built_at_label": "Nov 16, 2026 2:37 PM CT",
- "snapshot_label": "Nov 16, 2026 2:37 PM CT",
+ "built_at": "2026-11-16T15:09:47-06:00",
+ "built_at_label": "Nov 16, 2026 3:09 PM CT",
+ "snapshot_label": "Nov 16, 2026 3:09 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:37 PM CT",
- "open_sessions_count": 1,
+ "open_sessions_now_label": "Nov 16 3:09 PM CT",
+ "open_sessions_count": 5,
  "hunt_days": [
   "2026-10-05",
   "2026-10-06",
@@ -916,16 +916,16 @@
   },
   "2026-11-16": {
    "1": {
-    "sessions": 2,
-    "open": 1,
+    "sessions": 3,
+    "open": 2,
     "zero_len": 0,
     "hours": 5.017,
     "seen_all": 2,
     "seen_rate": 2
    },
    "2": {
-    "sessions": 3,
-    "open": 0,
+    "sessions": 6,
+    "open": 3,
     "zero_len": 1,
     "hours": 9.583,
     "seen_all": 1,
@@ -934,6 +934,108 @@
   }
  },
  "by_day_ap": {
+  "PM": {
+   "2026-11-16": {
+    "1": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 3,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-15": {
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.067,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-07": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.817,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-06": {
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.85,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "2": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.567,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-05": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.067,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.667,
+     "seen_all": 2,
+     "seen_rate": 2
+    }
+   },
+   "2026-10-04": {
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.017,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.667,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
   "AM": {
    "2026-11-16": {
     "2": {
@@ -1053,90 +1155,6 @@
      "seen_rate": 2
     }
    }
-  },
-  "PM": {
-   "2026-11-15": {
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.067,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-07": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.817,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-06": {
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.85,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "2": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.567,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-05": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.067,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.667,
-     "seen_all": 2,
-     "seen_rate": 2
-    }
-   },
-   "2026-10-04": {
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.017,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.667,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -1190,7 +1208,7 @@
   }
  },
  "totals": {
-  "timesheet_rows": 39,
+  "timesheet_rows": 43,
   "seen": 30,
   "page_footer_seen": null
  },
