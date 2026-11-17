@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-16T20:37:00-06:00",
- "built_at_label": "Nov 16, 2026 8:37 PM CT",
- "snapshot_label": "Nov 16, 2026 8:37 PM CT",
+ "built_at": "2026-11-16T21:06:16-06:00",
+ "built_at_label": "Nov 16, 2026 9:06 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 8:36 PM CT",
+ "open_sessions_now_label": "Nov 16 9:06 PM CT",
  "open_sessions_count": 1,
  "hunt_days": [
   "2026-11-16"
@@ -5688,20 +5688,6 @@
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
-    "6": {
-     "Adult Doe": 1,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
-    },
-    "1": {
-     "Adult Doe": 1,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
-    }
-   },
-   "PM": {
     "8": {
      "Adult Doe": 0,
      "Fawn Doe": 1,
@@ -5715,7 +5701,7 @@
      "Adult Buck": 0
     },
     "6": {
-     "Adult Doe": 0,
+     "Adult Doe": 1,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 1
@@ -5731,8 +5717,15 @@
      "Fawn Doe": 1,
      "Fawn Buck": 0,
      "Adult Buck": 0
+    },
+    "1": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
     }
-   }
+   },
+   "PM": {}
   },
   "untimed": 0,
   "by_zone_g": {},
@@ -5762,6 +5755,7 @@
   "zone 'Zone 7': no 'Acres' in description; estimated 243.7 ac from the polygon",
   "zone 'Zone 8': no 'Acres' in description; estimated 236.6 ac from the polygon",
   "skipped non-parking point feature named 'Registration Station'",
+  "8 harvests used the sit's AM/PM bucket instead of the logged time (9 in-sit, 0 after checkout, 0 other day, 1 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
   "1 timesheet rows have In == Out (0 hours; kept, add no hours)",

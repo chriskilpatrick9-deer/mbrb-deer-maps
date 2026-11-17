@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 14 \u00b7 Murphy-Hanrehan Park Reserve",
- "built_at": "2026-11-16T20:37:04-06:00",
- "built_at_label": "Nov 16, 2026 8:37 PM CT",
- "snapshot_label": "Nov 16, 2026 8:37 PM CT",
+ "built_at": "2026-11-16T21:06:10-06:00",
+ "built_at_label": "Nov 16, 2026 9:06 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 8:37 PM CT",
+ "open_sessions_now_label": "Nov 16 9:06 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-09",
@@ -8557,7 +8557,7 @@
     "2": {
      "Adult Doe": 1,
      "Fawn Doe": 1,
-     "Fawn Buck": 1,
+     "Fawn Buck": 2,
      "Adult Buck": 3
     },
     "4": {
@@ -8567,10 +8567,28 @@
      "Adult Buck": 2
     },
     "6": {
-     "Adult Doe": 2,
+     "Adult Doe": 4,
+     "Fawn Doe": 1,
+     "Fawn Buck": 1,
+     "Adult Buck": 5
+    },
+    "7": {
+     "Adult Doe": 0,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 3
+    },
+    "3": {
+     "Adult Doe": 3,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
+    },
+    "5": {
+     "Adult Doe": 3,
      "Fawn Doe": 0,
      "Fawn Buck": 1,
-     "Adult Buck": 3
+     "Adult Buck": 0
     },
     "8": {
      "Adult Doe": 4,
@@ -8579,35 +8597,17 @@
      "Adult Buck": 0
     },
     "1": {
-     "Adult Doe": 1,
+     "Adult Doe": 2,
      "Fawn Doe": 4,
      "Fawn Buck": 1,
      "Adult Buck": 3
-    },
-    "5": {
-     "Adult Doe": 2,
-     "Fawn Doe": 0,
-     "Fawn Buck": 1,
-     "Adult Buck": 0
-    },
-    "7": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 2
-    },
-    "3": {
-     "Adult Doe": 2,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
     }
    },
    "PM": {
     "2": {
      "Adult Doe": 2,
      "Fawn Doe": 0,
-     "Fawn Buck": 2,
+     "Fawn Buck": 1,
      "Adult Buck": 0
     },
     "8": {
@@ -8616,39 +8616,27 @@
      "Fawn Buck": 1,
      "Adult Buck": 1
     },
-    "7": {
-     "Adult Doe": 0,
+    "5": {
+     "Adult Doe": 1,
      "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
+     "Fawn Buck": 1,
+     "Adult Buck": 2
     },
     "3": {
-     "Adult Doe": 3,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
     },
     "6": {
-     "Adult Doe": 2,
-     "Fawn Doe": 1,
-     "Fawn Buck": 2,
-     "Adult Buck": 2
-    },
-    "5": {
-     "Adult Doe": 2,
+     "Adult Doe": 0,
      "Fawn Doe": 0,
-     "Fawn Buck": 1,
-     "Adult Buck": 2
+     "Fawn Buck": 2,
+     "Adult Buck": 0
     },
     "4": {
      "Adult Doe": 0,
      "Fawn Doe": 1,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
-    },
-    "1": {
-     "Adult Doe": 1,
-     "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
     }
@@ -8681,6 +8669,7 @@
   "zone 'Zone 6': no 'Acres' in description; estimated 315.8 ac from the polygon",
   "zone 'Zone 7': no 'Acres' in description; estimated 190.9 ac from the polygon",
   "zone 'Zone 8': no 'Acres' in description; estimated 100.3 ac from the polygon",
+  "10 harvests used the sit's AM/PM bucket instead of the logged time; 2 harvest dates set from the matching sit (52 in-sit, 0 after checkout, 2 other day, 9 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 10",
   "104 rows on stand-setup days (2026-10-08, 2026-11-12) excluded from hunt-day totals",

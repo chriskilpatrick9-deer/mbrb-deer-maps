@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-16T20:36:58-06:00",
- "built_at_label": "Nov 16, 2026 8:36 PM CT",
- "snapshot_label": "Nov 16, 2026 8:36 PM CT",
+ "built_at": "2026-11-16T21:06:06-06:00",
+ "built_at_label": "Nov 16, 2026 9:06 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 8:36 PM CT",
- "open_sessions_count": 1,
+ "open_sessions_now_label": "Nov 16 9:06 PM CT",
+ "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-05",
   "2026-10-06",
@@ -917,11 +917,11 @@
   "2026-11-16": {
    "1": {
     "sessions": 5,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 20.6,
-    "seen_all": 8,
-    "seen_rate": 8
+    "hours": 20.883,
+    "seen_all": 11,
+    "seen_rate": 11
    },
    "2": {
     "sessions": 7,
@@ -938,11 +938,11 @@
    "2026-11-16": {
     "1": {
      "sessions": 3,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 3.917,
-     "seen_all": 3,
-     "seen_rate": 3
+     "hours": 4.2,
+     "seen_all": 6,
+     "seen_rate": 6
     },
     "2": {
      "sessions": 4,
@@ -1184,18 +1184,25 @@
   "total": 5,
   "date_filterable": false,
   "by_zone_ap": {
-   "AM": {},
-   "PM": {
+   "AM": {
     "1": {
-     "Adult Doe": 1,
+     "Adult Doe": 0,
      "Fawn Doe": 1,
      "Fawn Buck": 0,
      "Adult Buck": 0
-    },
+    }
+   },
+   "PM": {
     "2": {
      "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 1,
+     "Adult Buck": 0
+    },
+    "1": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
      "Adult Buck": 0
     }
    }
@@ -1209,7 +1216,7 @@
  },
  "totals": {
   "timesheet_rows": 46,
-  "seen": 36,
+  "seen": 39,
   "page_footer_seen": null
  },
  "unplaced": {
@@ -1225,6 +1232,7 @@
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
+  "1 harvest used the sit's AM/PM bucket instead of the logged time (5 in-sit, 0 after checkout, 0 other day, 0 kept the logged time)",
   "expected -1 zones, found 2",
   "expected -1 parking points, found 0",
   "1 timesheet rows have In == Out (0 hours; kept, add no hours)",

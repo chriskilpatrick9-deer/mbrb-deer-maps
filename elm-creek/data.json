@@ -1,7 +1,7 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-16T16:06:05-06:00",
- "built_at_label": "Nov 16, 2026 4:06 PM CT",
+ "built_at": "2026-11-16T21:06:44-06:00",
+ "built_at_label": "Nov 16, 2026 9:06 PM CT",
  "snapshot_label": "Nov 16, 2026 11:25 AM CT",
  "open_sessions_mode": "skip",
  "open_sessions_now_label": "Nov 16 11:21 AM CT",
@@ -15602,11 +15602,17 @@
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "8": {
+     "Adult Doe": 1,
+     "Fawn Doe": 1,
+     "Fawn Buck": 1,
+     "Adult Buck": 2
+    },
     "4": {
      "Adult Doe": 0,
-     "Fawn Doe": 1,
+     "Fawn Doe": 2,
      "Fawn Buck": 0,
-     "Adult Buck": 1
+     "Adult Buck": 2
     },
     "9": {
      "Adult Doe": 5,
@@ -15615,9 +15621,9 @@
      "Adult Buck": 0
     },
     "10": {
-     "Adult Doe": 1,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
-     "Fawn Buck": 1,
+     "Fawn Buck": 2,
      "Adult Buck": 0
     },
     "3": {
@@ -15632,17 +15638,17 @@
      "Fawn Buck": 0,
      "Adult Buck": 0
     },
+    "5": {
+     "Adult Doe": 0,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 1
+    },
     "7": {
-     "Adult Doe": 1,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
-    },
-    "8": {
-     "Adult Doe": 1,
-     "Fawn Doe": 1,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
     }
    },
    "PM": {
@@ -15656,13 +15662,7 @@
      "Adult Doe": 0,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
-     "Adult Buck": 3
-    },
-    "8": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 1,
-     "Adult Buck": 1
+     "Adult Buck": 2
     },
     "9": {
      "Adult Doe": 1,
@@ -15672,20 +15672,20 @@
     },
     "4": {
      "Adult Doe": 0,
-     "Fawn Doe": 3,
+     "Fawn Doe": 2,
      "Fawn Buck": 0,
-     "Adult Buck": 2
+     "Adult Buck": 1
     },
     "7": {
-     "Adult Doe": 3,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 1,
      "Adult Buck": 1
     },
     "10": {
-     "Adult Doe": 1,
+     "Adult Doe": 0,
      "Fawn Doe": 0,
-     "Fawn Buck": 1,
+     "Fawn Buck": 0,
      "Adult Buck": 1
     },
     "2": {
@@ -15725,6 +15725,7 @@
   "zone '8': no 'Acres' in description; estimated 371.8 ac from the polygon",
   "zone '9': no 'Acres' in description; estimated 498.4 ac from the polygon",
   "zone '10': no 'Acres' in description; estimated 516.8 ac from the polygon",
+  "8 harvests used the sit's AM/PM bucket instead of the logged time (34 in-sit, 0 after checkout, 0 other day, 6 kept the logged time)",
   "expected -1 parking points, found 32",
   "6 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "80 rows on stand-setup days (2026-10-15) excluded from hunt-day totals",

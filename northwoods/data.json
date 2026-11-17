@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 24 \u00b7 Northwoods",
- "built_at": "2026-11-16T16:06:10-06:00",
- "built_at_label": "Nov 16, 2026 4:06 PM CT",
- "snapshot_label": "Nov 16, 2026 2:37 PM CT",
+ "built_at": "2026-11-16T21:02:54-06:00",
+ "built_at_label": "Nov 16, 2026 9:02 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:02 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:37 PM CT",
+ "open_sessions_now_label": "Nov 16 9:02 PM CT",
  "open_sessions_count": 1,
  "hunt_days": [
   "2026-10-05",
@@ -1205,12 +1205,12 @@
       "Adult Doe": 1,
       "Fawn Doe": 0,
       "Fawn Buck": 0,
-      "Adult Buck": 1
+      "Adult Buck": 0
      }
     },
     "PM": {
      "Northwoods Park": {
-      "Adult Doe": 1,
+      "Adult Doe": 0,
       "Fawn Doe": 0,
       "Fawn Buck": 0,
       "Adult Buck": 1

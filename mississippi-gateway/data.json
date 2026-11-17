@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 16 \u00b7 Mississippi Gateway Regional Park",
- "built_at": "2026-11-16T16:06:14-06:00",
- "built_at_label": "Nov 16, 2026 4:06 PM CT",
- "snapshot_label": "Nov 16, 2026 2:37 PM CT",
+ "built_at": "2026-11-16T21:04:58-06:00",
+ "built_at_label": "Nov 16, 2026 9:04 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:04 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:37 PM CT",
+ "open_sessions_now_label": "Nov 16 9:04 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-19",
@@ -1651,30 +1651,30 @@
   "by_zone_ap": {
    "AM": {
     "1": {
-     "Adult Doe": 3,
+     "Adult Doe": 6,
      "Fawn Doe": 0,
-     "Fawn Buck": 0,
+     "Fawn Buck": 1,
      "Adult Buck": 2
     },
     "2": {
-     "Adult Doe": 2,
+     "Adult Doe": 3,
      "Fawn Doe": 1,
      "Fawn Buck": 0,
-     "Adult Buck": 1
+     "Adult Buck": 2
     }
    },
    "PM": {
     "1": {
-     "Adult Doe": 5,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
-     "Fawn Buck": 2,
+     "Fawn Buck": 1,
      "Adult Buck": 2
     },
     "2": {
-     "Adult Doe": 4,
+     "Adult Doe": 3,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
-     "Adult Buck": 2
+     "Adult Buck": 1
     }
    }
   },
@@ -1703,6 +1703,7 @@
   "skipped non-parking point feature named 'Mississippi Hunt Only'",
   "skipped non-parking point feature named 'Mississippi Hunt Only'",
   "skipped non-parking point feature named 'Mississippi Hunt Only'",
+  "6 harvests used the sit's AM/PM bucket instead of the logged time (24 in-sit, 0 after checkout, 0 other day, 0 kept the logged time)",
   "expected -1 zones, found 3",
   "expected -1 parking points, found 0",
   "22 rows on stand-setup days (2026-10-18, 2026-11-01) excluded from hunt-day totals",

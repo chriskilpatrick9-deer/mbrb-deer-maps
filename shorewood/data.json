@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 19 \u00b7 Shorewood",
- "built_at": "2026-11-16T20:37:08-06:00",
- "built_at_label": "Nov 16, 2026 8:37 PM CT",
- "snapshot_label": "Nov 16, 2026 8:37 PM CT",
+ "built_at": "2026-11-16T21:06:14-06:00",
+ "built_at_label": "Nov 16, 2026 9:06 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 8:37 PM CT",
+ "open_sessions_now_label": "Nov 16 9:06 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-09",
@@ -6865,7 +6865,7 @@
   "by_zone_ap": {
    "AM": {
     "16": {
-     "Adult Doe": 1,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
@@ -6886,7 +6886,7 @@
      "Adult Doe": 0,
      "Fawn Doe": 0,
      "Fawn Buck": 1,
-     "Adult Buck": 1
+     "Adult Buck": 2
     },
     "4": {
      "Adult Doe": 0,
@@ -6903,18 +6903,12 @@
    },
    "PM": {
     "16": {
-     "Adult Doe": 3,
+     "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
     },
     "12": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
-    },
-    "2": {
      "Adult Doe": 0,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
@@ -6979,6 +6973,7 @@
   "zone 'Zone 24': no 'Acres' in description; estimated 0.8 ac from the polygon",
   "skipped non-parking point feature named 'Shorewood City Hall'",
   "skipped non-parking point feature named 'City of Shorewood - Public Works'",
+  "2 harvests used the sit's AM/PM bucket instead of the logged time (14 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "expected -1 zones, found 18",
   "expected -1 parking points, found 0"
  ],

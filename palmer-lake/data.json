@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 25 \u00b7 Palmer Lake",
- "built_at": "2026-11-16T16:06:09-06:00",
- "built_at_label": "Nov 16, 2026 4:06 PM CT",
- "snapshot_label": "Nov 16, 2026 2:36 PM CT",
+ "built_at": "2026-11-16T21:02:13-06:00",
+ "built_at_label": "Nov 16, 2026 9:02 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:02 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:36 PM CT",
+ "open_sessions_now_label": "Nov 16 9:02 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-05",
@@ -952,16 +952,16 @@
   "by_zone_ap": {
    "AM": {
     "Park": {
-     "Adult Doe": 1,
-     "Fawn Doe": 4,
+     "Adult Doe": 3,
+     "Fawn Doe": 6,
      "Fawn Buck": 0,
      "Adult Buck": 1
     }
    },
    "PM": {
     "Park": {
-     "Adult Doe": 5,
-     "Fawn Doe": 2,
+     "Adult Doe": 3,
+     "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 1
     }
@@ -992,16 +992,16 @@
    "Hunt A": {
     "AM": {
      "Park": {
-      "Adult Doe": 5,
+      "Adult Doe": 3,
       "Fawn Doe": 5,
       "Fawn Buck": 0,
-      "Adult Buck": 1
+      "Adult Buck": 0
      }
     },
     "PM": {
      "Park": {
-      "Adult Doe": 5,
-      "Fawn Doe": 5,
+      "Adult Doe": 2,
+      "Fawn Doe": 0,
       "Fawn Buck": 0,
       "Adult Buck": 1
      }
@@ -1010,7 +1010,7 @@
    "Hunt B": {
     "AM": {
      "Park": {
-      "Adult Doe": 1,
+      "Adult Doe": 0,
       "Fawn Doe": 1,
       "Fawn Buck": 0,
       "Adult Buck": 1
@@ -1019,9 +1019,9 @@
     "PM": {
      "Park": {
       "Adult Doe": 1,
-      "Fawn Doe": 1,
+      "Fawn Doe": 0,
       "Fawn Buck": 0,
-      "Adult Buck": 1
+      "Adult Buck": 0
      }
     }
    }
@@ -1039,6 +1039,7 @@
   "harvests_by_class": {}
  },
  "notes": [
+  "4 harvests used the sit's AM/PM bucket instead of the logged time (12 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "Hunt A and Hunt B are hunter groups, not map areas; this park has no zone outline, so no zone shape is drawn. Use the hunt-group filter.",
   "expected -1 zones, found 1",
   "expected -1 parking points, found 0",

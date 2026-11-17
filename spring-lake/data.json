@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 17 \u00b7 Spring Lake Park Reserve",
- "built_at": "2026-11-16T16:06:13-06:00",
- "built_at_label": "Nov 16, 2026 4:06 PM CT",
- "snapshot_label": "Nov 16, 2026 2:37 PM CT",
+ "built_at": "2026-11-16T21:04:17-06:00",
+ "built_at_label": "Nov 16, 2026 9:04 PM CT",
+ "snapshot_label": "Nov 16, 2026 9:04 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 2:37 PM CT",
+ "open_sessions_now_label": "Nov 16 9:04 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-09-28",
@@ -2347,7 +2347,7 @@
    "AM": {
     "2": {
      "Adult Doe": 1,
-     "Fawn Doe": 0,
+     "Fawn Doe": 1,
      "Fawn Buck": 1,
      "Adult Buck": 0
     }
@@ -2361,7 +2361,7 @@
     },
     "2": {
      "Adult Doe": 1,
-     "Fawn Doe": 1,
+     "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
     }
@@ -2388,6 +2388,7 @@
  "notes": [
   "zone 'Zone 1': no 'Acres' in description; estimated 153.1 ac from the polygon",
   "zone 'Zone 2': no 'Acres' in description; estimated 136.4 ac from the polygon",
+  "1 harvest used the sit's AM/PM bucket instead of the logged time (5 in-sit, 0 after checkout, 0 other day, 0 kept the logged time)",
   "expected -1 zones, found 3",
   "expected -1 parking points, found 3",
   "1 timesheet rows have In == Out (0 hours; kept, add no hours)",
