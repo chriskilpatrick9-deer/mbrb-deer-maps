@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-17T12:09:07-06:00",
- "built_at_label": "Nov 17, 2026 12:09 PM CT",
- "snapshot_label": "Nov 17, 2026 12:09 PM CT",
+ "built_at": "2026-11-17T15:08:37-06:00",
+ "built_at_label": "Nov 17, 2026 3:08 PM CT",
+ "snapshot_label": "Nov 17, 2026 3:08 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 17 12:09 PM CT",
+ "open_sessions_now_label": "Nov 17 3:08 PM CT",
  "open_sessions_count": 2,
  "hunt_days": [
   "2026-10-05",
@@ -936,8 +936,8 @@
   },
   "2026-11-17": {
    "1": {
-    "sessions": 2,
-    "open": 0,
+    "sessions": 4,
+    "open": 2,
     "zero_len": 0,
     "hours": 5.883,
     "seen_all": 1,
@@ -945,24 +945,136 @@
    },
    "2": {
     "sessions": 3,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 4.4,
-    "seen_all": 1,
-    "seen_rate": 1
+    "hours": 17.75,
+    "seen_all": 4,
+    "seen_rate": 4
    }
   }
  },
  "by_day_ap": {
+  "PM": {
+   "2026-11-17": {
+    "1": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-16": {
+    "1": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.2,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.333,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-15": {
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.067,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-07": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.817,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-06": {
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.85,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "2": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.567,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-05": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.067,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.667,
+     "seen_all": 2,
+     "seen_rate": 2
+    }
+   },
+   "2026-10-04": {
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.017,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.667,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
   "AM": {
    "2026-11-17": {
     "2": {
      "sessions": 3,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 4.4,
-     "seen_all": 1,
-     "seen_rate": 1
+     "hours": 17.75,
+     "seen_all": 4,
+     "seen_rate": 4
     },
     "1": {
      "sessions": 2,
@@ -1091,108 +1203,6 @@
      "seen_rate": 2
     }
    }
-  },
-  "PM": {
-   "2026-11-16": {
-    "1": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.2,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.333,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-11-15": {
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.067,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-07": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.817,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-06": {
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.85,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "2": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.567,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-05": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.067,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.667,
-     "seen_all": 2,
-     "seen_rate": 2
-    }
-   },
-   "2026-10-04": {
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.017,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.667,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -1207,10 +1217,10 @@
     "Adult Buck": 1
    },
    "2": {
-    "Adult Doe": 2,
+    "Adult Doe": 3,
     "Fawn Doe": 0,
     "Fawn Buck": 1,
-    "Adult Buck": 0
+    "Adult Buck": 2
    }
   },
   "classes": [
@@ -1219,10 +1229,16 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 6,
+  "total": 9,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "2": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 2
+    },
     "1": {
      "Adult Doe": 0,
      "Fawn Doe": 1,
@@ -1253,9 +1269,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 51,
-  "seen": 41,
-  "page_footer_seen": 41
+  "timesheet_rows": 53,
+  "seen": 44,
+  "page_footer_seen": 44
  },
  "unplaced": {
   "sits": 0,
@@ -1270,7 +1286,7 @@
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
-  "1 harvest used the sit's AM/PM bucket instead of the logged time (6 in-sit, 0 after checkout, 0 other day, 0 kept the logged time)",
+  "1 harvest used the sit's AM/PM bucket instead of the logged time (9 in-sit, 0 after checkout, 0 other day, 0 kept the logged time)",
   "expected -1 zones, found 2",
   "expected -1 parking points, found 0",
   "1 timesheet rows have In == Out (0 hours; kept, add no hours)",
@@ -1279,21 +1295,21 @@
  ],
  "recovery": {
   "by_zone": {
+   "2": {
+    "n": 6,
+    "rec": 6,
+    "other": {}
+   },
    "1": {
     "n": 3,
     "rec": 2,
     "other": {
      "Wounded": 1
     }
-   },
-   "2": {
-    "n": 3,
-    "rec": 3,
-    "other": {}
    }
   },
-  "n": 6,
-  "rec": 5,
+  "n": 9,
+  "rec": 8,
   "other": {
    "Wounded": 1
   }
