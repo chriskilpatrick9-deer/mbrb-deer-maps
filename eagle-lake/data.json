@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-17T15:08:37-06:00",
- "built_at_label": "Nov 17, 2026 3:08 PM CT",
- "snapshot_label": "Nov 17, 2026 3:08 PM CT",
+ "built_at": "2026-11-17T18:10:55-06:00",
+ "built_at_label": "Nov 17, 2026 6:10 PM CT",
+ "snapshot_label": "Nov 17, 2026 6:10 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 17 3:08 PM CT",
- "open_sessions_count": 2,
+ "open_sessions_now_label": "Nov 17 6:10 PM CT",
+ "open_sessions_count": 1,
  "hunt_days": [
   "2026-10-05",
   "2026-10-06",
@@ -937,17 +937,17 @@
   "2026-11-17": {
    "1": {
     "sessions": 4,
-    "open": 2,
+    "open": 1,
     "zero_len": 0,
-    "hours": 5.883,
-    "seen_all": 1,
-    "seen_rate": 1
+    "hours": 9.017,
+    "seen_all": 3,
+    "seen_rate": 3
    },
    "2": {
-    "sessions": 3,
+    "sessions": 4,
     "open": 0,
     "zero_len": 0,
-    "hours": 17.75,
+    "hours": 18.867,
     "seen_all": 4,
     "seen_rate": 4
    }
@@ -956,13 +956,21 @@
  "by_day_ap": {
   "PM": {
    "2026-11-17": {
-    "1": {
-     "sessions": 2,
-     "open": 2,
+    "2": {
+     "sessions": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 1.117,
      "seen_all": 0,
      "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 3.133,
+     "seen_all": 2,
+     "seen_rate": 2
     }
    },
    "2026-11-16": {
@@ -1269,9 +1277,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 53,
-  "seen": 44,
-  "page_footer_seen": 44
+  "timesheet_rows": 54,
+  "seen": 46,
+  "page_footer_seen": 46
  },
  "unplaced": {
   "sits": 0,
