@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-18T12:06:12-06:00",
- "built_at_label": "Nov 18, 2026 12:06 PM CT",
- "snapshot_label": "Nov 18, 2026 12:06 PM CT",
+ "built_at": "2026-11-18T15:13:07-06:00",
+ "built_at_label": "Nov 18, 2026 3:13 PM CT",
+ "snapshot_label": "Nov 18, 2026 3:13 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 18 12:06 PM CT",
- "open_sessions_count": 2,
+ "open_sessions_now_label": "Nov 18 3:13 PM CT",
+ "open_sessions_count": 3,
  "hunt_days": [
   "2026-10-05",
   "2026-10-06",
@@ -957,15 +957,15 @@
   "2026-11-18": {
    "1": {
     "sessions": 2,
-    "open": 2,
+    "open": 1,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 7.2,
+    "seen_all": 1,
+    "seen_rate": 1
    },
    "2": {
-    "sessions": 2,
-    "open": 0,
+    "sessions": 4,
+    "open": 2,
     "zero_len": 0,
     "hours": 7.017,
     "seen_all": 3,
@@ -974,15 +974,145 @@
   }
  },
  "by_day_ap": {
-  "AM": {
+  "PM": {
    "2026-11-18": {
-    "1": {
+    "2": {
      "sessions": 2,
      "open": 2,
      "zero_len": 0,
      "hours": 0.0,
      "seen_all": 0,
      "seen_rate": 0
+    }
+   },
+   "2026-11-17": {
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.117,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.383,
+     "seen_all": 6,
+     "seen_rate": 6
+    }
+   },
+   "2026-11-16": {
+    "1": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.2,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.333,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-15": {
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.067,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-07": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.817,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-06": {
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.85,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "2": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.567,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-05": {
+    "2": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.067,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.667,
+     "seen_all": 2,
+     "seen_rate": 2
+    }
+   },
+   "2026-10-04": {
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.017,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.667,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
+  "AM": {
+   "2026-11-18": {
+    "1": {
+     "sessions": 2,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 7.2,
+     "seen_all": 1,
+     "seen_rate": 1
     },
     "2": {
      "sessions": 2,
@@ -1129,126 +1259,6 @@
      "seen_rate": 2
     }
    }
-  },
-  "PM": {
-   "2026-11-17": {
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.117,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.383,
-     "seen_all": 6,
-     "seen_rate": 6
-    }
-   },
-   "2026-11-16": {
-    "1": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.2,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.333,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-11-15": {
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.067,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-07": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.817,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-06": {
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.85,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "2": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.567,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-05": {
-    "2": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.067,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.667,
-     "seen_all": 2,
-     "seen_rate": 2
-    }
-   },
-   "2026-10-04": {
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.017,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.667,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -1315,9 +1325,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 58,
-  "seen": 53,
-  "page_footer_seen": 53
+  "timesheet_rows": 60,
+  "seen": 54,
+  "page_footer_seen": 54
  },
  "unplaced": {
   "sits": 0,
