@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 11 \u00b7 Eagle Lake Regional Park",
- "built_at": "2026-11-18T09:09:17-06:00",
- "built_at_label": "Nov 18, 2026 9:09 AM CT",
- "snapshot_label": "Nov 18, 2026 9:09 AM CT",
+ "built_at": "2026-11-18T12:06:12-06:00",
+ "built_at_label": "Nov 18, 2026 12:06 PM CT",
+ "snapshot_label": "Nov 18, 2026 12:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 18 9:09 AM CT",
- "open_sessions_count": 4,
+ "open_sessions_now_label": "Nov 18 12:06 PM CT",
+ "open_sessions_count": 2,
  "hunt_days": [
   "2026-10-05",
   "2026-10-06",
@@ -965,11 +965,11 @@
    },
    "2": {
     "sessions": 2,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 7.017,
+    "seen_all": 3,
+    "seen_rate": 3
    }
   }
  },
@@ -986,11 +986,11 @@
     },
     "2": {
      "sessions": 2,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 7.017,
+     "seen_all": 3,
+     "seen_rate": 3
     }
    },
    "2026-11-17": {
@@ -1260,7 +1260,7 @@
     "Adult Doe": 2,
     "Fawn Doe": 1,
     "Fawn Buck": 0,
-    "Adult Buck": 1
+    "Adult Buck": 2
    },
    "2": {
     "Adult Doe": 3,
@@ -1275,21 +1275,21 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 10,
+  "total": 11,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "1": {
+     "Adult Doe": 1,
+     "Fawn Doe": 1,
+     "Fawn Buck": 0,
+     "Adult Buck": 2
+    },
     "2": {
      "Adult Doe": 1,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 2
-    },
-    "1": {
-     "Adult Doe": 1,
-     "Fawn Doe": 1,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
     }
    },
    "PM": {
@@ -1316,8 +1316,8 @@
  },
  "totals": {
   "timesheet_rows": 58,
-  "seen": 50,
-  "page_footer_seen": 50
+  "seen": 53,
+  "page_footer_seen": 53
  },
  "unplaced": {
   "sits": 0,
@@ -1332,7 +1332,7 @@
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
   "skipped non-parking point feature named 'Eagle'",
-  "1 harvest used the sit's AM/PM bucket instead of the logged time (9 in-sit, 0 after checkout, 0 other day, 1 kept the logged time)",
+  "1 harvest used the sit's AM/PM bucket instead of the logged time (10 in-sit, 0 after checkout, 0 other day, 1 kept the logged time)",
   "expected -1 zones, found 2",
   "expected -1 parking points, found 0",
   "1 timesheet rows have In == Out (0 hours; kept, add no hours)",
@@ -1341,21 +1341,21 @@
  ],
  "recovery": {
   "by_zone": {
+   "1": {
+    "n": 5,
+    "rec": 4,
+    "other": {
+     "Wounded": 1
+    }
+   },
    "2": {
     "n": 6,
     "rec": 6,
     "other": {}
-   },
-   "1": {
-    "n": 4,
-    "rec": 3,
-    "other": {
-     "Wounded": 1
-    }
    }
   },
-  "n": 10,
-  "rec": 9,
+  "n": 11,
+  "rec": 10,
   "other": {
    "Wounded": 1
   }
