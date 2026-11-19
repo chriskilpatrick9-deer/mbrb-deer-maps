@@ -1,18 +1,19 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-19T09:15:33-06:00",
- "built_at_label": "Nov 19, 2026 9:15 AM CT",
- "snapshot_label": "Nov 19, 2026 9:15 AM CT",
+ "built_at": "2026-11-19T12:06:23-06:00",
+ "built_at_label": "Nov 19, 2026 12:06 PM CT",
+ "snapshot_label": "Nov 19, 2026 12:06 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 19 9:05 AM CT",
- "open_sessions_count": 0,
+ "open_sessions_now_label": "Nov 19 12:05 PM CT",
+ "open_sessions_count": 22,
  "hunt_days": [
   "2026-10-16",
   "2026-10-17",
   "2026-10-18"
  ],
  "setup_days": [
-  "2026-10-15"
+  "2026-10-15",
+  "2026-11-19"
  ],
  "pre_hunt_days": [
   "2026-10-05",
@@ -34,7 +35,8 @@
   "2026-10-18": "Sun Oct 18",
   "2026-11-01": "Sun Nov 1",
   "2026-11-03": "Tue Nov 3",
-  "2026-11-05": "Thu Nov 5"
+  "2026-11-05": "Thu Nov 5",
+  "2026-11-19": "Nov 19 (stand setup)"
  },
  "zones": [
   {
@@ -14792,10 +14794,560 @@
     "seen_all": 0,
     "seen_rate": 0
    }
+  },
+  "2026-11-19": {
+   "1": {
+    "sessions": 5,
+    "open": 2,
+    "zero_len": 0,
+    "hours": 4.767,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "10": {
+    "sessions": 1,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "2": {
+    "sessions": 2,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 1.85,
+    "seen_all": 5,
+    "seen_rate": 5
+   },
+   "3": {
+    "sessions": 2,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 0.933,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "4": {
+    "sessions": 5,
+    "open": 4,
+    "zero_len": 0,
+    "hours": 2.217,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "5": {
+    "sessions": 5,
+    "open": 5,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "6": {
+    "sessions": 5,
+    "open": 3,
+    "zero_len": 0,
+    "hours": 2.8,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "7": {
+    "sessions": 1,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "8": {
+    "sessions": 4,
+    "open": 3,
+    "zero_len": 0,
+    "hours": 1.35,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "9": {
+    "sessions": 1,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   }
   }
  },
  "by_day_ap": {
+  "PM": {
+   "2026-11-19": {
+    "1": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-18": {
+    "8": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 12.133,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "5": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.717,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "3": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 12.967,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "10": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 24.833,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.433,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 42.117,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "9": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.35,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "2": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.4,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 22.717,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "6": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.917,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-17": {
+    "9": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 50.567,
+     "seen_all": 18,
+     "seen_rate": 18
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 14.967,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "10": {
+     "sessions": 11,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 39.967,
+     "seen_all": 12,
+     "seen_rate": 12
+    },
+    "5": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.35,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 21.717,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "8": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.95,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 32.967,
+     "seen_all": 10,
+     "seen_rate": 10
+    },
+    "3": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 21.7,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 23.367,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "2": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 26.5,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-16": {
+    "7": {
+     "sessions": 8,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 40.617,
+     "seen_all": 14,
+     "seen_rate": 14
+    },
+    "10": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 43.35,
+     "seen_all": 10,
+     "seen_rate": 10
+    },
+    "3": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 37.917,
+     "seen_all": 16,
+     "seen_rate": 16
+    },
+    "8": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 31.65,
+     "seen_all": 16,
+     "seen_rate": 16
+    },
+    "5": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 20.933,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 27.0,
+     "seen_all": 11,
+     "seen_rate": 11
+    },
+    "6": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 30.233,
+     "seen_all": 7,
+     "seen_rate": 7
+    },
+    "9": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 29.917,
+     "seen_all": 17,
+     "seen_rate": 17
+    },
+    "4": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 31.567,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 24.317,
+     "seen_all": 5,
+     "seen_rate": 5
+    }
+   },
+   "2026-10-15": {
+    "1": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.017,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "9": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.1,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.767,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 14.267,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.117,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "10": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.233,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "7": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.317,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.65,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "4": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.567,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-14": {
+    "10": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 17.417,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-06": {
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.55,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-05": {
+    "10": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 0.35,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
   "AM": {
+   "2026-11-19": {
+    "4": {
+     "sessions": 5,
+     "open": 4,
+     "zero_len": 0,
+     "hours": 2.217,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 4,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 2.8,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 5,
+     "open": 5,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "9": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 4,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 1.35,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "10": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 2,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.933,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 4,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 4.767,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.85,
+     "seen_all": 5,
+     "seen_rate": 5
+    }
+   },
    "2026-11-05": {
     "4": {
      "sessions": 1,
@@ -15164,366 +15716,6 @@
      "seen_rate": 0
     }
    }
-  },
-  "PM": {
-   "2026-10-18": {
-    "8": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 12.133,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "5": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.717,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "3": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 12.967,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "10": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 24.833,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "4": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.433,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 42.117,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "9": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.35,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "2": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.4,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 22.717,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "6": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.917,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-17": {
-    "9": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 50.567,
-     "seen_all": 18,
-     "seen_rate": 18
-    },
-    "4": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 14.967,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "10": {
-     "sessions": 11,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 39.967,
-     "seen_all": 12,
-     "seen_rate": 12
-    },
-    "5": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.35,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 21.717,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "8": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.95,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 32.967,
-     "seen_all": 10,
-     "seen_rate": 10
-    },
-    "3": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 21.7,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 23.367,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "2": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 26.5,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-16": {
-    "7": {
-     "sessions": 8,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 40.617,
-     "seen_all": 14,
-     "seen_rate": 14
-    },
-    "10": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 43.35,
-     "seen_all": 10,
-     "seen_rate": 10
-    },
-    "3": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 37.917,
-     "seen_all": 16,
-     "seen_rate": 16
-    },
-    "8": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 31.65,
-     "seen_all": 16,
-     "seen_rate": 16
-    },
-    "5": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 20.933,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 27.0,
-     "seen_all": 11,
-     "seen_rate": 11
-    },
-    "6": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 30.233,
-     "seen_all": 7,
-     "seen_rate": 7
-    },
-    "9": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 29.917,
-     "seen_all": 17,
-     "seen_rate": 17
-    },
-    "4": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 31.567,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 24.317,
-     "seen_all": 5,
-     "seen_rate": 5
-    }
-   },
-   "2026-10-15": {
-    "1": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.017,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "9": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.1,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "3": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.767,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 14.267,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.117,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "10": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.233,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "7": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "5": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.317,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.65,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "4": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.567,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-14": {
-    "10": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 17.417,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-06": {
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.55,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-05": {
-    "10": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 0.35,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -15704,9 +15896,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 521,
-  "seen": 478,
-  "page_footer_seen": 478
+  "timesheet_rows": 552,
+  "seen": 483,
+  "page_footer_seen": 483
  },
  "unplaced": {
   "sits": 0,
@@ -15725,10 +15917,12 @@
   "zone '8': no 'Acres' in description; estimated 371.8 ac from the polygon",
   "zone '9': no 'Acres' in description; estimated 498.4 ac from the polygon",
   "zone '10': no 'Acres' in description; estimated 516.8 ac from the polygon",
+  "timesheets_p6.html: duplicate row (same hunter/In/zone) skipped - pages likely shifted between saves",
   "8 harvests used the sit's AM/PM bucket instead of the logged time (34 in-sit, 0 after checkout, 0 other day, 6 kept the logged time)",
   "expected -1 parking points, found 32",
+  "pager says 553 timesheet rows, parsed 552 (missing page file?)",
   "6 timesheet rows have In == Out (0 hours; kept, add no hours)",
-  "80 rows on stand-setup days (2026-10-15) excluded from hunt-day totals",
+  "111 rows on stand-setup days (2026-10-15, 2026-11-19) excluded from hunt-day totals",
   "11 rows on non-hunt days (2026-10-05, 2026-10-06, 2026-10-07, 2026-10-14, 2026-11-01, 2026-11-03, 2026-11-05) excluded from hunt-day totals"
  ],
  "recovery": {
