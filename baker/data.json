@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 6 \u00b7 Baker Park Reserve",
- "built_at": "2026-11-16T21:06:14-06:00",
- "built_at_label": "Nov 16, 2026 9:06 PM CT",
- "snapshot_label": "Nov 16, 2026 9:06 PM CT",
+ "built_at": "2026-11-19T13:20:23-06:00",
+ "built_at_label": "Nov 19, 2026 1:20 PM CT",
+ "snapshot_label": "Nov 19, 2026 1:20 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 9:06 PM CT",
- "open_sessions_count": 0,
+ "open_sessions_now_label": "Nov 19 1:20 PM CT",
+ "open_sessions_count": 1,
  "hunt_days": [
   "2026-10-02",
   "2026-10-03",
@@ -5293,6 +5293,14 @@
    }
   },
   "2026-11-16": {
+   "3": {
+    "sessions": 1,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
    "4": {
     "sessions": 2,
     "open": 0,
@@ -5306,6 +5314,14 @@
  "by_day_ap": {
   "PM": {
    "2026-11-16": {
+    "3": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
     "4": {
      "sessions": 2,
      "open": 0,
@@ -5931,7 +5947,7 @@
     "Adult Buck": 0
    },
    "3": {
-    "Adult Doe": 2,
+    "Adult Doe": 3,
     "Fawn Doe": 1,
     "Fawn Buck": 0,
     "Adult Buck": 1
@@ -5949,7 +5965,7 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 19,
+  "total": 20,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
@@ -5966,7 +5982,7 @@
      "Adult Buck": 4
     },
     "3": {
-     "Adult Doe": 2,
+     "Adult Doe": 3,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
@@ -6001,7 +6017,7 @@
   }
  },
  "totals": {
-  "timesheet_rows": 334,
+  "timesheet_rows": 335,
   "seen": 265,
   "page_footer_seen": 265
  },
@@ -6032,7 +6048,7 @@
   "skipped non-parking point feature named 'Baker'",
   "skipped non-parking point feature named 'Baker'",
   "skipped non-parking point feature named 'Baker'",
-  "1 harvest used the sit's AM/PM bucket instead of the logged time (18 in-sit, 0 after checkout, 0 other day, 1 kept the logged time)",
+  "1 harvest used the sit's AM/PM bucket instead of the logged time (18 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "expected -1 zones, found 4",
   "expected -1 parking points, found 0",
   "5 timesheet rows have In == Out (0 hours; kept, add no hours)",
@@ -6049,9 +6065,11 @@
     }
    },
    "3": {
-    "n": 4,
+    "n": 5,
     "rec": 4,
-    "other": {}
+    "other": {
+     "Wounded": 1
+    }
    },
    "1": {
     "n": 7,
@@ -6059,10 +6077,10 @@
     "other": {}
    }
   },
-  "n": 19,
+  "n": 20,
   "rec": 18,
   "other": {
-   "Wounded": 1
+   "Wounded": 2
   }
  }
 }

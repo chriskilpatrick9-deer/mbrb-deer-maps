@@ -1,10 +1,10 @@
 {
  "title": "MBRB Hunt 2 \u00b7 MN River Valley \u2013 Long Meadow Lake",
- "built_at": "2026-11-16T21:06:22-06:00",
- "built_at_label": "Nov 16, 2026 9:06 PM CT",
- "snapshot_label": "Nov 16, 2026 9:06 PM CT",
+ "built_at": "2026-11-19T13:20:54-06:00",
+ "built_at_label": "Nov 19, 2026 1:20 PM CT",
+ "snapshot_label": "Nov 19, 2026 1:20 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 16 9:06 PM CT",
+ "open_sessions_now_label": "Nov 19 1:20 PM CT",
  "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-05",
@@ -18,7 +18,8 @@
  ],
  "pre_hunt_days": [
   "2026-10-03",
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-17"
  ],
  "day_labels": {
   "2026-10-03": "Sat Oct 3",
@@ -28,7 +29,8 @@
   "2026-10-07": "Wed Oct 7",
   "2026-10-30": "Fri Oct 30",
   "2026-11-01": "Nov 1 (stand setup)",
-  "2026-11-04": "Wed Nov 4"
+  "2026-11-04": "Wed Nov 4",
+  "2026-11-17": "Tue Nov 17"
  },
  "zones": [
   {
@@ -10103,152 +10105,30 @@
     "seen_all": 6,
     "seen_rate": 6
    }
+  },
+  "2026-11-17": {
+   "South West": {
+    "sessions": 1,
+    "open": 0,
+    "zero_len": 1,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   }
   }
  },
  "by_day_ap": {
-  "PM": {
-   "2026-11-04": {
-    "South West": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.033,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "North East": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.033,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-11-01": {
-    "Central": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.617,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "South West": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.2,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "North East": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.817,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-07": {
-    "Central": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.75,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "North East": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.517,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "South West": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.85,
-     "seen_all": 3,
-     "seen_rate": 3
-    }
-   },
-   "2026-10-06": {
-    "Central": {
-     "sessions": 8,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 37.65,
-     "seen_all": 9,
-     "seen_rate": 9
-    },
-    "North East": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.367,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "South West": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.95,
-     "seen_all": 6,
-     "seen_rate": 6
-    }
-   },
-   "2026-10-05": {
-    "Central": {
-     "sessions": 11,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 32.283,
-     "seen_all": 23,
-     "seen_rate": 23
-    },
-    "South West": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 14.883,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "North East": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 21.283,
-     "seen_all": 4,
-     "seen_rate": 4
-    }
-   },
-   "2026-10-04": {
-    "Central": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.3,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "South West": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.633,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
-  },
   "AM": {
+   "2026-11-17": {
+    "South West": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
    "2026-11-04": {
     "Central": {
      "sessions": 8,
@@ -10425,6 +10305,148 @@
      "seen_rate": 0
     }
    }
+  },
+  "PM": {
+   "2026-11-04": {
+    "South West": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.033,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "North East": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.033,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-11-01": {
+    "Central": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.617,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "South West": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.2,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "North East": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.817,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-07": {
+    "Central": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.75,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "North East": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.517,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "South West": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.85,
+     "seen_all": 3,
+     "seen_rate": 3
+    }
+   },
+   "2026-10-06": {
+    "Central": {
+     "sessions": 8,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 37.65,
+     "seen_all": 9,
+     "seen_rate": 9
+    },
+    "North East": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.367,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "South West": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.95,
+     "seen_all": 6,
+     "seen_rate": 6
+    }
+   },
+   "2026-10-05": {
+    "Central": {
+     "sessions": 11,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 32.283,
+     "seen_all": 23,
+     "seen_rate": 23
+    },
+    "South West": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 14.883,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "North East": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 21.283,
+     "seen_all": 4,
+     "seen_rate": 4
+    }
+   },
+   "2026-10-04": {
+    "Central": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 3.3,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "South West": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.633,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
   }
  },
  "groups": [],
@@ -10503,7 +10525,7 @@
   }
  },
  "totals": {
-  "timesheet_rows": 146,
+  "timesheet_rows": 147,
   "seen": 149,
   "page_footer_seen": 149
  },
@@ -10520,8 +10542,9 @@
   "skipped non-parking point feature named 'Visitor Center'",
   "expected -1 zones, found 3",
   "expected -1 parking points, found 1",
+  "1 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "31 rows on stand-setup days (2026-10-04, 2026-11-01) excluded from hunt-day totals",
-  "2 rows on non-hunt days (2026-10-03, 2026-10-30) excluded from hunt-day totals"
+  "3 rows on non-hunt days (2026-10-03, 2026-10-30, 2026-11-17) excluded from hunt-day totals"
  ],
  "recovery": {
   "by_zone": {
