@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-19T13:20:34-06:00",
- "built_at_label": "Nov 19, 2026 1:20 PM CT",
- "snapshot_label": "Nov 19, 2026 1:20 PM CT",
+ "built_at": "2026-11-19T15:08:47-06:00",
+ "built_at_label": "Nov 19, 2026 3:08 PM CT",
+ "snapshot_label": "Nov 19, 2026 3:08 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 19 12:49 PM CT",
- "open_sessions_count": 50,
+ "open_sessions_now_label": "Nov 19 3:06 PM CT",
+ "open_sessions_count": 11,
  "hunt_days": [
   "2026-10-16",
   "2026-10-17",
@@ -14797,167 +14797,167 @@
   },
   "2026-11-19": {
    "1": {
-    "sessions": 7,
-    "open": 4,
+    "sessions": 9,
+    "open": 0,
     "zero_len": 0,
-    "hours": 4.767,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 16.483,
+    "seen_all": 2,
+    "seen_rate": 2
    },
    "10": {
-    "sessions": 8,
-    "open": 8,
+    "sessions": 9,
+    "open": 3,
     "zero_len": 0,
-    "hours": 0.0,
+    "hours": 10.833,
     "seen_all": 0,
     "seen_rate": 0
    },
    "2": {
-    "sessions": 5,
-    "open": 4,
+    "sessions": 8,
+    "open": 0,
     "zero_len": 0,
-    "hours": 1.85,
+    "hours": 9.4,
     "seen_all": 5,
     "seen_rate": 5
    },
    "3": {
     "sessions": 5,
-    "open": 4,
+    "open": 1,
     "zero_len": 0,
-    "hours": 0.933,
+    "hours": 6.917,
     "seen_all": 0,
     "seen_rate": 0
    },
    "4": {
-    "sessions": 7,
-    "open": 5,
+    "sessions": 8,
+    "open": 2,
     "zero_len": 0,
-    "hours": 3.4,
+    "hours": 9.433,
     "seen_all": 0,
     "seen_rate": 0
    },
    "5": {
-    "sessions": 8,
-    "open": 8,
+    "sessions": 11,
+    "open": 0,
     "zero_len": 0,
-    "hours": 0.0,
+    "hours": 15.467,
     "seen_all": 0,
     "seen_rate": 0
    },
    "6": {
-    "sessions": 6,
-    "open": 4,
+    "sessions": 8,
+    "open": 2,
     "zero_len": 0,
-    "hours": 2.8,
+    "hours": 9.85,
     "seen_all": 0,
     "seen_rate": 0
    },
    "7": {
-    "sessions": 5,
-    "open": 4,
+    "sessions": 7,
+    "open": 1,
     "zero_len": 0,
-    "hours": 0.933,
+    "hours": 8.3,
     "seen_all": 0,
     "seen_rate": 0
    },
    "8": {
-    "sessions": 6,
-    "open": 5,
+    "sessions": 9,
+    "open": 0,
     "zero_len": 0,
-    "hours": 1.35,
+    "hours": 16.033,
     "seen_all": 0,
     "seen_rate": 0
    },
    "9": {
-    "sessions": 4,
-    "open": 4,
+    "sessions": 7,
+    "open": 2,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 6.033,
+    "seen_all": 1,
+    "seen_rate": 1
    }
   }
  },
  "by_day_ap": {
   "PM": {
    "2026-11-19": {
-    "5": {
-     "sessions": 3,
-     "open": 3,
+    "9": {
+     "sessions": 6,
+     "open": 2,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 4.433,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "6": {
+     "sessions": 4,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 3.183,
      "seen_all": 0,
      "seen_rate": 0
     },
-    "8": {
-     "sessions": 2,
-     "open": 2,
+    "2": {
+     "sessions": 7,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 7.55,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 3.117,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.117,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "7": {
+     "sessions": 6,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 7.367,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.817,
      "seen_all": 0,
      "seen_rate": 0
     },
     "10": {
-     "sessions": 7,
-     "open": 7,
+     "sessions": 8,
+     "open": 3,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 8.333,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.433,
      "seen_all": 0,
      "seen_rate": 0
     },
     "3": {
      "sessions": 3,
-     "open": 3,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 3,
-     "open": 3,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 4,
-     "open": 4,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 2,
-     "open": 2,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "9": {
-     "sessions": 3,
-     "open": 3,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 4,
-     "open": 4,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 2,
-     "open": 2,
-     "zero_len": 0,
-     "hours": 0.0,
+     "hours": 5.983,
      "seen_all": 0,
      "seen_rate": 0
     }
@@ -15325,41 +15325,41 @@
    "2026-11-19": {
     "4": {
      "sessions": 5,
-     "open": 3,
+     "open": 1,
      "zero_len": 0,
-     "hours": 3.4,
+     "hours": 6.317,
      "seen_all": 0,
      "seen_rate": 0
     },
     "6": {
      "sessions": 4,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 2.8,
+     "hours": 6.667,
      "seen_all": 0,
      "seen_rate": 0
     },
     "5": {
      "sessions": 5,
-     "open": 5,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 9.65,
      "seen_all": 0,
      "seen_rate": 0
     },
     "9": {
      "sessions": 1,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 1.6,
      "seen_all": 0,
      "seen_rate": 0
     },
     "8": {
      "sessions": 4,
-     "open": 3,
+     "open": 0,
      "zero_len": 0,
-     "hours": 1.35,
+     "hours": 9.6,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -15373,9 +15373,9 @@
     },
     "10": {
      "sessions": 1,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 2.5,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -15389,9 +15389,9 @@
     },
     "1": {
      "sessions": 4,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 4.767,
+     "hours": 10.367,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -15952,9 +15952,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 582,
-  "seen": 483,
-  "page_footer_seen": 483
+  "timesheet_rows": 602,
+  "seen": 486,
+  "page_footer_seen": 486
  },
  "unplaced": {
   "sits": 0,
@@ -15976,7 +15976,7 @@
   "8 harvests used the sit's AM/PM bucket instead of the logged time (34 in-sit, 0 after checkout, 0 other day, 6 kept the logged time)",
   "expected -1 parking points, found 32",
   "6 timesheet rows have In == Out (0 hours; kept, add no hours)",
-  "141 rows on stand-setup days (2026-10-15, 2026-11-19) excluded from hunt-day totals",
+  "161 rows on stand-setup days (2026-10-15, 2026-11-19) excluded from hunt-day totals",
   "11 rows on non-hunt days (2026-10-05, 2026-10-06, 2026-10-07, 2026-10-14, 2026-11-01, 2026-11-03, 2026-11-05) excluded from hunt-day totals"
  ],
  "recovery": {
