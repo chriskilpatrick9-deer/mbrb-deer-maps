@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-21T09:26:04-06:00",
- "built_at_label": "Nov 21, 2026 9:26 AM CT",
- "snapshot_label": "Nov 21, 2026 9:11 AM CT",
+ "built_at": "2026-11-21T12:17:12-06:00",
+ "built_at_label": "Nov 21, 2026 12:17 PM CT",
+ "snapshot_label": "Nov 21, 2026 12:17 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 21 9:11 AM CT",
- "open_sessions_count": 71,
+ "open_sessions_now_label": "Nov 21 12:11 PM CT",
+ "open_sessions_count": 50,
  "hunt_days": [
   "2026-10-16",
   "2026-10-17",
@@ -14965,169 +14965,703 @@
   },
   "2026-11-21": {
    "1": {
-    "sessions": 5,
+    "sessions": 7,
     "open": 4,
     "zero_len": 0,
-    "hours": 1.05,
+    "hours": 9.867,
     "seen_all": 0,
     "seen_rate": 0
    },
    "10": {
-    "sessions": 7,
-    "open": 6,
+    "sessions": 8,
+    "open": 3,
     "zero_len": 0,
-    "hours": 2.533,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 14.75,
+    "seen_all": 3,
+    "seen_rate": 3
    },
    "2": {
-    "sessions": 6,
-    "open": 4,
+    "sessions": 9,
+    "open": 5,
     "zero_len": 0,
-    "hours": 3.817,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 13.567,
+    "seen_all": 3,
+    "seen_rate": 3
    },
    "3": {
-    "sessions": 9,
-    "open": 8,
+    "sessions": 11,
+    "open": 5,
     "zero_len": 0,
-    "hours": 3.117,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 22.917,
+    "seen_all": 3,
+    "seen_rate": 3
    },
    "4": {
-    "sessions": 7,
-    "open": 6,
+    "sessions": 10,
+    "open": 7,
     "zero_len": 0,
-    "hours": 1.35,
+    "hours": 8.9,
     "seen_all": 0,
     "seen_rate": 0
    },
    "5": {
-    "sessions": 12,
-    "open": 11,
+    "sessions": 14,
+    "open": 5,
     "zero_len": 0,
-    "hours": 1.967,
-    "seen_all": 1,
-    "seen_rate": 1
+    "hours": 28.65,
+    "seen_all": 4,
+    "seen_rate": 4
    },
    "6": {
     "sessions": 8,
-    "open": 8,
+    "open": 6,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 10.1,
+    "seen_all": 1,
+    "seen_rate": 1
    },
    "7": {
-    "sessions": 9,
-    "open": 7,
+    "sessions": 10,
+    "open": 5,
     "zero_len": 0,
-    "hours": 4.4,
+    "hours": 17.9,
     "seen_all": 0,
     "seen_rate": 0
    },
    "8": {
     "sessions": 9,
-    "open": 9,
+    "open": 3,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 31.4,
+    "seen_all": 12,
+    "seen_rate": 12
    },
    "9": {
     "sessions": 9,
-    "open": 8,
+    "open": 7,
     "zero_len": 0,
-    "hours": 2.5,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 6.917,
+    "seen_all": 3,
+    "seen_rate": 3
    }
   }
  },
  "by_day_ap": {
-  "AM": {
+  "PM": {
    "2026-11-21": {
-    "5": {
-     "sessions": 12,
-     "open": 11,
+    "2": {
+     "sessions": 1,
+     "open": 1,
      "zero_len": 0,
-     "hours": 1.967,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-20": {
+    "9": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.383,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.35,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "10": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 28.217,
+     "seen_all": 19,
+     "seen_rate": 19
+    },
+    "1": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.433,
      "seen_all": 1,
      "seen_rate": 1
     },
-    "9": {
-     "sessions": 9,
-     "open": 8,
+    "3": {
+     "sessions": 3,
+     "open": 0,
      "zero_len": 0,
-     "hours": 2.5,
+     "hours": 9.717,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "2": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 17.617,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "8": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.25,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "5": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.9,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 20.75,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "6": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.767,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-11-19": {
+    "9": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.5,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "6": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.467,
      "seen_all": 0,
      "seen_rate": 0
     },
-    "3": {
-     "sessions": 9,
-     "open": 8,
+    "2": {
+     "sessions": 7,
+     "open": 0,
      "zero_len": 0,
-     "hours": 3.117,
+     "hours": 7.55,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.133,
      "seen_all": 0,
      "seen_rate": 0
     },
     "1": {
      "sessions": 5,
-     "open": 4,
+     "open": 0,
      "zero_len": 0,
-     "hours": 1.05,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 9,
-     "open": 9,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 6.117,
+     "seen_all": 2,
+     "seen_rate": 2
     },
     "7": {
-     "sessions": 9,
-     "open": 7,
+     "sessions": 6,
+     "open": 0,
      "zero_len": 0,
-     "hours": 4.4,
+     "hours": 10.283,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.817,
      "seen_all": 0,
      "seen_rate": 0
     },
     "10": {
-     "sessions": 7,
-     "open": 6,
+     "sessions": 8,
+     "open": 0,
      "zero_len": 0,
-     "hours": 2.533,
+     "hours": 18.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.433,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.983,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-18": {
+    "8": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 12.133,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "5": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.717,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "3": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 12.967,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "10": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 24.833,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.433,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 42.117,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "9": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.35,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "2": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.4,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 22.717,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "6": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.917,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-17": {
+    "9": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 50.567,
+     "seen_all": 18,
+     "seen_rate": 18
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 14.967,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "10": {
+     "sessions": 11,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 39.967,
+     "seen_all": 12,
+     "seen_rate": 12
+    },
+    "5": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.35,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 21.717,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "8": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.95,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 32.967,
+     "seen_all": 10,
+     "seen_rate": 10
+    },
+    "3": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 21.7,
      "seen_all": 0,
      "seen_rate": 0
     },
     "6": {
-     "sessions": 8,
-     "open": 8,
+     "sessions": 6,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 23.367,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "2": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 26.5,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-10-16": {
+    "7": {
+     "sessions": 8,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 40.617,
+     "seen_all": 14,
+     "seen_rate": 14
+    },
+    "10": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 43.35,
+     "seen_all": 10,
+     "seen_rate": 10
+    },
+    "3": {
+     "sessions": 9,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 37.917,
+     "seen_all": 16,
+     "seen_rate": 16
+    },
+    "8": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 31.65,
+     "seen_all": 16,
+     "seen_rate": 16
+    },
+    "5": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 20.933,
      "seen_all": 0,
      "seen_rate": 0
     },
-    "4": {
-     "sessions": 7,
-     "open": 6,
+    "1": {
+     "sessions": 6,
+     "open": 0,
      "zero_len": 0,
-     "hours": 1.35,
+     "hours": 27.0,
+     "seen_all": 11,
+     "seen_rate": 11
+    },
+    "6": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 30.233,
+     "seen_all": 7,
+     "seen_rate": 7
+    },
+    "9": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 29.917,
+     "seen_all": 17,
+     "seen_rate": 17
+    },
+    "4": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 31.567,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 24.317,
+     "seen_all": 5,
+     "seen_rate": 5
+    }
+   },
+   "2026-10-15": {
+    "1": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.017,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "9": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.1,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.767,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 10,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 14.267,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.117,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "10": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.233,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "7": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 7,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.317,
      "seen_all": 0,
      "seen_rate": 0
     },
     "2": {
      "sessions": 6,
-     "open": 4,
+     "open": 0,
      "zero_len": 0,
-     "hours": 3.817,
+     "hours": 9.65,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "4": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.567,
      "seen_all": 0,
      "seen_rate": 0
+    }
+   },
+   "2026-10-14": {
+    "10": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 17.417,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-06": {
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.55,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-10-05": {
+    "10": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 0.35,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
+  "AM": {
+   "2026-11-21": {
+    "5": {
+     "sessions": 14,
+     "open": 5,
+     "zero_len": 0,
+     "hours": 28.65,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "1": {
+     "sessions": 7,
+     "open": 4,
+     "zero_len": 0,
+     "hours": 9.867,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 11,
+     "open": 5,
+     "zero_len": 0,
+     "hours": 22.917,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "4": {
+     "sessions": 10,
+     "open": 7,
+     "zero_len": 0,
+     "hours": 8.9,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 8,
+     "open": 4,
+     "zero_len": 0,
+     "hours": 13.567,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "7": {
+     "sessions": 10,
+     "open": 5,
+     "zero_len": 0,
+     "hours": 17.9,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "10": {
+     "sessions": 8,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 14.75,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "9": {
+     "sessions": 9,
+     "open": 7,
+     "zero_len": 0,
+     "hours": 6.917,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "8": {
+     "sessions": 9,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 31.4,
+     "seen_all": 12,
+     "seen_rate": 12
+    },
+    "6": {
+     "sessions": 8,
+     "open": 6,
+     "zero_len": 0,
+     "hours": 10.1,
+     "seen_all": 1,
+     "seen_rate": 1
     }
    },
    "2026-11-20": {
@@ -15662,530 +16196,6 @@
      "seen_rate": 0
     }
    }
-  },
-  "PM": {
-   "2026-11-20": {
-    "9": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.383,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "4": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.35,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "10": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 28.217,
-     "seen_all": 19,
-     "seen_rate": 19
-    },
-    "1": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.433,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "3": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.717,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "2": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 17.617,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "8": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.25,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "5": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.9,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 20.75,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "6": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.767,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-11-19": {
-    "9": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.5,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "6": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.467,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.55,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.117,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "7": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.283,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "5": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.817,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "10": {
-     "sessions": 8,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 18.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.433,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "3": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.983,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-18": {
-    "8": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 12.133,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "5": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.717,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "3": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 12.967,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "10": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 24.833,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "4": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.433,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 42.117,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "9": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.35,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "2": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.4,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 22.717,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "6": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.917,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-17": {
-    "9": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 50.567,
-     "seen_all": 18,
-     "seen_rate": 18
-    },
-    "4": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 14.967,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "10": {
-     "sessions": 11,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 39.967,
-     "seen_all": 12,
-     "seen_rate": 12
-    },
-    "5": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.35,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 21.717,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "8": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.95,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 32.967,
-     "seen_all": 10,
-     "seen_rate": 10
-    },
-    "3": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 21.7,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 23.367,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "2": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 26.5,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-10-16": {
-    "7": {
-     "sessions": 8,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 40.617,
-     "seen_all": 14,
-     "seen_rate": 14
-    },
-    "10": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 43.35,
-     "seen_all": 10,
-     "seen_rate": 10
-    },
-    "3": {
-     "sessions": 9,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 37.917,
-     "seen_all": 16,
-     "seen_rate": 16
-    },
-    "8": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 31.65,
-     "seen_all": 16,
-     "seen_rate": 16
-    },
-    "5": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 20.933,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 27.0,
-     "seen_all": 11,
-     "seen_rate": 11
-    },
-    "6": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 30.233,
-     "seen_all": 7,
-     "seen_rate": 7
-    },
-    "9": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 29.917,
-     "seen_all": 17,
-     "seen_rate": 17
-    },
-    "4": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 31.567,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 24.317,
-     "seen_all": 5,
-     "seen_rate": 5
-    }
-   },
-   "2026-10-15": {
-    "1": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.017,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "9": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.1,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "3": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.767,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 10,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 14.267,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.117,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "10": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.233,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "7": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "5": {
-     "sessions": 7,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.317,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.65,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "4": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.567,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-14": {
-    "10": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 17.417,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-06": {
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.55,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-10-05": {
-    "10": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 0.35,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -16221,7 +16231,7 @@
     "Adult Doe": 0,
     "Fawn Doe": 0,
     "Fawn Buck": 0,
-    "Adult Buck": 3
+    "Adult Buck": 4
    },
    "6": {
     "Adult Doe": 0,
@@ -16260,15 +16270,27 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 54,
+  "total": 55,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "5": {
+     "Adult Doe": 0,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 2
+    },
     "8": {
      "Adult Doe": 1,
      "Fawn Doe": 2,
      "Fawn Buck": 1,
      "Adult Buck": 3
+    },
+    "7": {
+     "Adult Doe": 2,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 2
     },
     "9": {
      "Adult Doe": 5,
@@ -16281,12 +16303,6 @@
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 1
-    },
-    "7": {
-     "Adult Doe": 2,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 2
     },
     "10": {
      "Adult Doe": 2,
@@ -16311,12 +16327,6 @@
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
-    },
-    "5": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
     }
    },
    "PM": {
@@ -16372,9 +16382,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 823,
-  "seen": 664,
-  "page_footer_seen": 664
+  "timesheet_rows": 837,
+  "seen": 692,
+  "page_footer_seen": 692
  },
  "unplaced": {
   "sits": 0,
@@ -16393,7 +16403,7 @@
   "zone '8': no 'Acres' in description; estimated 371.8 ac from the polygon",
   "zone '9': no 'Acres' in description; estimated 498.4 ac from the polygon",
   "zone '10': no 'Acres' in description; estimated 516.8 ac from the polygon",
-  "10 harvests used the sit's AM/PM bucket instead of the logged time (46 in-sit, 0 after checkout, 0 other day, 8 kept the logged time)",
+  "11 harvests used the sit's AM/PM bucket instead of the logged time (48 in-sit, 0 after checkout, 0 other day, 7 kept the logged time)",
   "expected -1 parking points, found 32",
   "6 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "161 rows on stand-setup days (2026-10-15, 2026-11-19) excluded from hunt-day totals",
@@ -16401,6 +16411,13 @@
  ],
  "recovery": {
   "by_zone": {
+   "5": {
+    "n": 4,
+    "rec": 3,
+    "other": {
+     "Wounded": 1
+    }
+   },
    "8": {
     "n": 7,
     "rec": 7,
@@ -16417,6 +16434,11 @@
     "other": {
      "Wounded": 1
     }
+   },
+   "7": {
+    "n": 8,
+    "rec": 8,
+    "other": {}
    },
    "2": {
     "n": 6,
@@ -16440,18 +16462,6 @@
     "rec": 1,
     "other": {}
    },
-   "7": {
-    "n": 8,
-    "rec": 8,
-    "other": {}
-   },
-   "5": {
-    "n": 3,
-    "rec": 2,
-    "other": {
-     "Wounded": 1
-    }
-   },
    "3": {
     "n": 1,
     "rec": 0,
@@ -16460,8 +16470,8 @@
     }
    }
   },
-  "n": 54,
-  "rec": 49,
+  "n": 55,
+  "rec": 50,
   "other": {
    "Wounded": 5
   }
