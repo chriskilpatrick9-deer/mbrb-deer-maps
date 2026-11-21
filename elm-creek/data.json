@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-20T18:17:31-06:00",
- "built_at_label": "Nov 20, 2026 6:17 PM CT",
- "snapshot_label": "Nov 20, 2026 6:17 PM CT",
+ "built_at": "2026-11-20T21:26:12-06:00",
+ "built_at_label": "Nov 20, 2026 9:26 PM CT",
+ "snapshot_label": "Nov 20, 2026 9:26 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 20 6:03 PM CT",
- "open_sessions_count": 19,
+ "open_sessions_now_label": "Nov 20 9:11 PM CT",
+ "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-16",
   "2026-10-17",
@@ -14882,43 +14882,43 @@
   "2026-11-20": {
    "1": {
     "sessions": 15,
-    "open": 3,
+    "open": 0,
     "zero_len": 0,
-    "hours": 53.25,
-    "seen_all": 2,
-    "seen_rate": 2
+    "hours": 79.45,
+    "seen_all": 4,
+    "seen_rate": 4
    },
    "10": {
-    "sessions": 19,
-    "open": 3,
+    "sessions": 20,
+    "open": 0,
     "zero_len": 0,
-    "hours": 73.067,
-    "seen_all": 31,
-    "seen_rate": 31
+    "hours": 93.167,
+    "seen_all": 44,
+    "seen_rate": 44
    },
    "2": {
     "sessions": 13,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 66.517,
-    "seen_all": 21,
-    "seen_rate": 21
+    "hours": 80.417,
+    "seen_all": 24,
+    "seen_rate": 24
    },
    "3": {
     "sessions": 12,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 70.9,
-    "seen_all": 9,
-    "seen_rate": 9
+    "hours": 83.883,
+    "seen_all": 10,
+    "seen_rate": 10
    },
    "4": {
-    "sessions": 15,
-    "open": 6,
+    "sessions": 16,
+    "open": 0,
     "zero_len": 0,
-    "hours": 41.883,
-    "seen_all": 7,
-    "seen_rate": 7
+    "hours": 102.833,
+    "seen_all": 13,
+    "seen_rate": 13
    },
    "5": {
     "sessions": 15,
@@ -14938,11 +14938,11 @@
    },
    "7": {
     "sessions": 15,
-    "open": 3,
+    "open": 0,
     "zero_len": 0,
-    "hours": 65.467,
-    "seen_all": 11,
-    "seen_rate": 11
+    "hours": 96.5,
+    "seen_all": 18,
+    "seen_rate": 18
    },
    "8": {
     "sessions": 14,
@@ -14953,12 +14953,12 @@
     "seen_rate": 14
    },
    "9": {
-    "sessions": 10,
-    "open": 2,
+    "sessions": 11,
+    "open": 0,
     "zero_len": 0,
-    "hours": 61.567,
-    "seen_all": 14,
-    "seen_rate": 14
+    "hours": 87.283,
+    "seen_all": 20,
+    "seen_rate": 20
    }
   }
  },
@@ -14966,28 +14966,36 @@
   "PM": {
    "2026-11-20": {
     "9": {
-     "sessions": 3,
+     "sessions": 4,
      "open": 0,
      "zero_len": 0,
-     "hours": 10.317,
+     "hours": 10.383,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "4": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.35,
      "seen_all": 2,
      "seen_rate": 2
     },
     "10": {
-     "sessions": 8,
-     "open": 2,
+     "sessions": 9,
+     "open": 0,
      "zero_len": 0,
-     "hours": 20.083,
-     "seen_all": 8,
-     "seen_rate": 8
+     "hours": 28.217,
+     "seen_all": 19,
+     "seen_rate": 19
     },
     "1": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 12.167,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 16.433,
+     "seen_all": 1,
+     "seen_rate": 1
     },
     "3": {
      "sessions": 3,
@@ -15021,21 +15029,13 @@
      "seen_all": 3,
      "seen_rate": 3
     },
-    "4": {
-     "sessions": 4,
-     "open": 1,
-     "zero_len": 0,
-     "hours": 9.183,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
     "7": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 14.967,
-     "seen_all": 3,
-     "seen_rate": 3
+     "hours": 20.75,
+     "seen_all": 4,
+     "seen_rate": 4
     },
     "6": {
      "sessions": 2,
@@ -15499,51 +15499,51 @@
     },
     "3": {
      "sessions": 9,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 61.183,
-     "seen_all": 8,
-     "seen_rate": 8
+     "hours": 74.167,
+     "seen_all": 9,
+     "seen_rate": 9
     },
     "4": {
      "sessions": 11,
-     "open": 5,
+     "open": 0,
      "zero_len": 0,
-     "hours": 32.7,
-     "seen_all": 7,
-     "seen_rate": 7
+     "hours": 89.483,
+     "seen_all": 11,
+     "seen_rate": 11
     },
     "1": {
      "sessions": 10,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 41.083,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 63.017,
+     "seen_all": 3,
+     "seen_rate": 3
     },
     "9": {
      "sessions": 7,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 51.25,
-     "seen_all": 12,
-     "seen_rate": 12
+     "hours": 76.9,
+     "seen_all": 17,
+     "seen_rate": 17
     },
     "10": {
      "sessions": 11,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 52.983,
-     "seen_all": 23,
-     "seen_rate": 23
+     "hours": 64.95,
+     "seen_all": 25,
+     "seen_rate": 25
     },
     "7": {
      "sessions": 10,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 50.5,
-     "seen_all": 8,
-     "seen_rate": 8
+     "hours": 75.75,
+     "seen_all": 14,
+     "seen_rate": 14
     },
     "5": {
      "sessions": 12,
@@ -15555,11 +15555,11 @@
     },
     "2": {
      "sessions": 8,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 48.9,
-     "seen_all": 15,
-     "seen_rate": 15
+     "hours": 62.8,
+     "seen_all": 18,
+     "seen_rate": 18
     },
     "6": {
      "sessions": 7,
@@ -16049,7 +16049,7 @@
     "Adult Doe": 0,
     "Fawn Doe": 4,
     "Fawn Buck": 0,
-    "Adult Buck": 3
+    "Adult Buck": 4
    },
    "5": {
     "Adult Doe": 0,
@@ -16067,7 +16067,7 @@
     "Adult Doe": 4,
     "Fawn Doe": 0,
     "Fawn Buck": 1,
-    "Adult Buck": 2
+    "Adult Buck": 3
    },
    "8": {
     "Adult Doe": 1,
@@ -16079,10 +16079,10 @@
     "Adult Doe": 6,
     "Fawn Doe": 0,
     "Fawn Buck": 1,
-    "Adult Buck": 1
+    "Adult Buck": 2
    },
    "10": {
-    "Adult Doe": 2,
+    "Adult Doe": 3,
     "Fawn Doe": 0,
     "Fawn Buck": 2,
     "Adult Buck": 2
@@ -16094,7 +16094,7 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 47,
+  "total": 51,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
@@ -16103,6 +16103,12 @@
      "Fawn Doe": 2,
      "Fawn Buck": 1,
      "Adult Buck": 2
+    },
+    "9": {
+     "Adult Doe": 5,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 1
     },
     "6": {
      "Adult Doe": 0,
@@ -16114,7 +16120,7 @@
      "Adult Doe": 2,
      "Fawn Doe": 0,
      "Fawn Buck": 0,
-     "Adult Buck": 1
+     "Adult Buck": 2
     },
     "10": {
      "Adult Doe": 2,
@@ -16126,13 +16132,7 @@
      "Adult Doe": 0,
      "Fawn Doe": 2,
      "Fawn Buck": 0,
-     "Adult Buck": 2
-    },
-    "9": {
-     "Adult Doe": 5,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
+     "Adult Buck": 3
     },
     "3": {
      "Adult Doe": 1,
@@ -16159,6 +16159,12 @@
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 2
+    },
+    "10": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 1
     },
     "2": {
      "Adult Doe": 0,
@@ -16189,12 +16195,6 @@
      "Fawn Doe": 0,
      "Fawn Buck": 1,
      "Adult Buck": 1
-    },
-    "10": {
-     "Adult Doe": 0,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
     }
    }
   },
@@ -16206,9 +16206,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 739,
-  "seen": 625,
-  "page_footer_seen": 625
+  "timesheet_rows": 742,
+  "seen": 663,
+  "page_footer_seen": 663
  },
  "unplaced": {
   "sits": 0,
@@ -16227,7 +16227,7 @@
   "zone '8': no 'Acres' in description; estimated 371.8 ac from the polygon",
   "zone '9': no 'Acres' in description; estimated 498.4 ac from the polygon",
   "zone '10': no 'Acres' in description; estimated 516.8 ac from the polygon",
-  "9 harvests used the sit's AM/PM bucket instead of the logged time (41 in-sit, 0 after checkout, 0 other day, 6 kept the logged time)",
+  "10 harvests used the sit's AM/PM bucket instead of the logged time (43 in-sit, 0 after checkout, 0 other day, 8 kept the logged time)",
   "expected -1 parking points, found 32",
   "6 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "161 rows on stand-setup days (2026-10-15, 2026-11-19) excluded from hunt-day totals",
@@ -16245,10 +16245,22 @@
     "rec": 6,
     "other": {}
    },
+   "10": {
+    "n": 7,
+    "rec": 7,
+    "other": {}
+   },
    "2": {
     "n": 5,
     "rec": 5,
     "other": {}
+   },
+   "9": {
+    "n": 9,
+    "rec": 7,
+    "other": {
+     "Wounded": 2
+    }
    },
    "6": {
     "n": 1,
@@ -16256,13 +16268,13 @@
     "other": {}
    },
    "7": {
-    "n": 7,
-    "rec": 7,
+    "n": 8,
+    "rec": 8,
     "other": {}
    },
-   "10": {
-    "n": 6,
-    "rec": 6,
+   "4": {
+    "n": 8,
+    "rec": 8,
     "other": {}
    },
    "5": {
@@ -16270,18 +16282,6 @@
     "rec": 2,
     "other": {
      "Wounded": 1
-    }
-   },
-   "4": {
-    "n": 7,
-    "rec": 7,
-    "other": {}
-   },
-   "9": {
-    "n": 8,
-    "rec": 6,
-    "other": {
-     "Wounded": 2
     }
    },
    "3": {
@@ -16292,8 +16292,8 @@
     }
    }
   },
-  "n": 47,
-  "rec": 43,
+  "n": 51,
+  "rec": 47,
   "other": {
    "Wounded": 4
   }
