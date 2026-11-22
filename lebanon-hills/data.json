@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-22T12:12:30-06:00",
- "built_at_label": "Nov 22, 2026 12:12 PM CT",
- "snapshot_label": "Nov 22, 2026 12:12 PM CT",
+ "built_at": "2026-11-22T15:19:20-06:00",
+ "built_at_label": "Nov 22, 2026 3:19 PM CT",
+ "snapshot_label": "Nov 22, 2026 3:19 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 22 12:12 PM CT",
- "open_sessions_count": 13,
+ "open_sessions_now_label": "Nov 22 3:19 PM CT",
+ "open_sessions_count": 1,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5557,66 +5557,66 @@
   },
   "2026-11-22": {
    "1": {
-    "sessions": 3,
+    "sessions": 5,
     "open": 0,
     "zero_len": 0,
-    "hours": 4.167,
+    "hours": 6.617,
     "seen_all": 0,
     "seen_rate": 0
    },
    "2": {
     "sessions": 4,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 2.867,
+    "hours": 7.967,
     "seen_all": 0,
     "seen_rate": 0
    },
    "3": {
     "sessions": 3,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 2.383,
+    "hours": 3.467,
     "seen_all": 1,
     "seen_rate": 1
    },
    "4": {
-    "sessions": 2,
-    "open": 1,
+    "sessions": 5,
+    "open": 0,
     "zero_len": 0,
-    "hours": 1.85,
+    "hours": 5.833,
     "seen_all": 0,
     "seen_rate": 0
    },
    "5": {
     "sessions": 3,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 0.767,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 6.35,
+    "seen_all": 3,
+    "seen_rate": 3
    },
    "6": {
-    "sessions": 5,
-    "open": 2,
+    "sessions": 6,
+    "open": 1,
     "zero_len": 0,
-    "hours": 3.6,
+    "hours": 8.233,
     "seen_all": 0,
     "seen_rate": 0
    },
    "7": {
     "sessions": 4,
-    "open": 3,
+    "open": 0,
     "zero_len": 0,
-    "hours": 1.433,
+    "hours": 8.167,
     "seen_all": 0,
     "seen_rate": 0
    },
    "8": {
-    "sessions": 4,
-    "open": 3,
+    "sessions": 5,
+    "open": 0,
     "zero_len": 0,
-    "hours": 0.967,
+    "hours": 6.317,
     "seen_all": 5,
     "seen_rate": 5
    }
@@ -5625,11 +5625,43 @@
  "by_day_ap": {
   "PM": {
    "2026-11-22": {
-    "3": {
+    "6": {
      "sessions": 1,
      "open": 1,
      "zero_len": 0,
      "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.867,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.45,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.083,
      "seen_all": 0,
      "seen_rate": 0
     }
@@ -5839,33 +5871,33 @@
    "2026-11-22": {
     "7": {
      "sessions": 4,
-     "open": 3,
+     "open": 0,
      "zero_len": 0,
-     "hours": 1.433,
+     "hours": 8.167,
      "seen_all": 0,
      "seen_rate": 0
     },
     "8": {
      "sessions": 4,
-     "open": 3,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.967,
+     "hours": 5.45,
      "seen_all": 5,
      "seen_rate": 5
     },
     "5": {
      "sessions": 3,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.767,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 6.35,
+     "seen_all": 3,
+     "seen_rate": 3
     },
     "2": {
      "sessions": 4,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 2.867,
+     "hours": 7.967,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -5879,9 +5911,9 @@
     },
     "6": {
      "sessions": 5,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 3.6,
+     "hours": 8.233,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -5895,9 +5927,9 @@
     },
     "4": {
      "sessions": 2,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 1.85,
+     "hours": 3.7,
      "seen_all": 0,
      "seen_rate": 0
     }
@@ -6285,9 +6317,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 251,
-  "seen": 255,
-  "page_footer_seen": 255
+  "timesheet_rows": 258,
+  "seen": 258,
+  "page_footer_seen": 258
  },
  "unplaced": {
   "sits": 0,
@@ -6309,7 +6341,7 @@
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
   "2 timesheet rows have In == Out (0 hours; kept, add no hours)",
-  "65 rows on stand-setup days (2026-11-15, 2026-11-22) excluded from hunt-day totals"
+  "72 rows on stand-setup days (2026-11-15, 2026-11-22) excluded from hunt-day totals"
  ],
  "recovery": {
   "by_zone": {
