@@ -1,25 +1,27 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-22T09:33:50-06:00",
- "built_at_label": "Nov 22, 2026 9:33 AM CT",
- "snapshot_label": "Nov 22, 2026 9:33 AM CT",
+ "built_at": "2026-11-22T12:12:30-06:00",
+ "built_at_label": "Nov 22, 2026 12:12 PM CT",
+ "snapshot_label": "Nov 22, 2026 12:12 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 22 9:33 AM CT",
- "open_sessions_count": 0,
+ "open_sessions_now_label": "Nov 22 12:12 PM CT",
+ "open_sessions_count": 13,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
   "2026-11-18"
  ],
  "setup_days": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-22"
  ],
  "pre_hunt_days": [],
  "day_labels": {
   "2026-11-15": "Nov 15 (stand setup)",
   "2026-11-16": "Mon Nov 16",
   "2026-11-17": "Tue Nov 17",
-  "2026-11-18": "Wed Nov 18"
+  "2026-11-18": "Wed Nov 18",
+  "2026-11-22": "Nov 22 (stand setup)"
  },
  "zones": [
   {
@@ -5552,10 +5554,86 @@
     "seen_all": 7,
     "seen_rate": 7
    }
+  },
+  "2026-11-22": {
+   "1": {
+    "sessions": 3,
+    "open": 0,
+    "zero_len": 0,
+    "hours": 4.167,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "2": {
+    "sessions": 4,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 2.867,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "3": {
+    "sessions": 3,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 2.383,
+    "seen_all": 1,
+    "seen_rate": 1
+   },
+   "4": {
+    "sessions": 2,
+    "open": 1,
+    "zero_len": 0,
+    "hours": 1.85,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "5": {
+    "sessions": 3,
+    "open": 2,
+    "zero_len": 0,
+    "hours": 0.767,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "6": {
+    "sessions": 5,
+    "open": 2,
+    "zero_len": 0,
+    "hours": 3.6,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "7": {
+    "sessions": 4,
+    "open": 3,
+    "zero_len": 0,
+    "hours": 1.433,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "8": {
+    "sessions": 4,
+    "open": 3,
+    "zero_len": 0,
+    "hours": 0.967,
+    "seen_all": 5,
+    "seen_rate": 5
+   }
   }
  },
  "by_day_ap": {
   "PM": {
+   "2026-11-22": {
+    "3": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
    "2026-11-18": {
     "4": {
      "sessions": 2,
@@ -5758,6 +5836,72 @@
    }
   },
   "AM": {
+   "2026-11-22": {
+    "7": {
+     "sessions": 4,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 1.433,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 4,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 0.967,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "5": {
+     "sessions": 3,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.767,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 4,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 2.867,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.167,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 5,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 3.6,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.383,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "4": {
+     "sessions": 2,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 1.85,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
    "2026-11-18": {
     "8": {
      "sessions": 6,
@@ -6141,9 +6285,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 223,
-  "seen": 249,
-  "page_footer_seen": 249
+  "timesheet_rows": 251,
+  "seen": 255,
+  "page_footer_seen": 255
  },
  "unplaced": {
   "sits": 0,
@@ -6165,7 +6309,7 @@
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
   "2 timesheet rows have In == Out (0 hours; kept, add no hours)",
-  "37 rows on stand-setup days (2026-11-15) excluded from hunt-day totals"
+  "65 rows on stand-setup days (2026-11-15, 2026-11-22) excluded from hunt-day totals"
  ],
  "recovery": {
   "by_zone": {
