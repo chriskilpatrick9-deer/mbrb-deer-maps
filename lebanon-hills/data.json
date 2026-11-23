@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-22T15:19:20-06:00",
- "built_at_label": "Nov 22, 2026 3:19 PM CT",
- "snapshot_label": "Nov 22, 2026 3:19 PM CT",
+ "built_at": "2026-11-22T18:08:15-06:00",
+ "built_at_label": "Nov 22, 2026 6:08 PM CT",
+ "snapshot_label": "Nov 22, 2026 6:08 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 22 3:19 PM CT",
- "open_sessions_count": 1,
+ "open_sessions_now_label": "Nov 22 6:08 PM CT",
+ "open_sessions_count": 0,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5598,9 +5598,9 @@
    },
    "6": {
     "sessions": 6,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 8.233,
+    "hours": 11.817,
     "seen_all": 0,
     "seen_rate": 0
    },
@@ -5627,9 +5627,9 @@
    "2026-11-22": {
     "6": {
      "sessions": 1,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 0.0,
+     "hours": 3.583,
      "seen_all": 0,
      "seen_rate": 0
     },
