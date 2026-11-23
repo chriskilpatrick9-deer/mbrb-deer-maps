@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 12 \u00b7 Elm Creek Park Reserve",
- "built_at": "2026-11-22T18:08:09-06:00",
- "built_at_label": "Nov 22, 2026 6:08 PM CT",
- "snapshot_label": "Nov 22, 2026 6:08 PM CT",
+ "built_at": "2026-11-22T21:07:46-06:00",
+ "built_at_label": "Nov 22, 2026 9:07 PM CT",
+ "snapshot_label": "Nov 22, 2026 9:07 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 22 6:05 PM CT",
- "open_sessions_count": 7,
+ "open_sessions_now_label": "Nov 22 9:06 PM CT",
+ "open_sessions_count": 0,
  "hunt_days": [
   "2026-10-16",
   "2026-10-17",
@@ -15050,11 +15050,11 @@
   "2026-11-22": {
    "1": {
     "sessions": 13,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 55.767,
-    "seen_all": 10,
-    "seen_rate": 10
+    "hours": 68.65,
+    "seen_all": 11,
+    "seen_rate": 11
    },
    "10": {
     "sessions": 17,
@@ -15074,11 +15074,11 @@
    },
    "3": {
     "sessions": 11,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 48.133,
-    "seen_all": 5,
-    "seen_rate": 5
+    "hours": 60.933,
+    "seen_all": 6,
+    "seen_rate": 6
    },
    "4": {
     "sessions": 12,
@@ -15090,11 +15090,11 @@
    },
    "5": {
     "sessions": 12,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 58.533,
-    "seen_all": 1,
-    "seen_rate": 1
+    "hours": 83.55,
+    "seen_all": 2,
+    "seen_rate": 2
    },
    "6": {
     "sessions": 11,
@@ -15106,11 +15106,11 @@
    },
    "7": {
     "sessions": 12,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 55.533,
-    "seen_all": 3,
-    "seen_rate": 3
+    "hours": 67.783,
+    "seen_all": 6,
+    "seen_rate": 6
    },
    "8": {
     "sessions": 8,
@@ -15122,11 +15122,11 @@
    },
    "9": {
     "sessions": 9,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 40.7,
-    "seen_all": 5,
-    "seen_rate": 5
+    "hours": 56.567,
+    "seen_all": 9,
+    "seen_rate": 9
    }
   }
  },
@@ -15199,11 +15199,11 @@
     },
     "9": {
      "sessions": 4,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 14.483,
-     "seen_all": 1,
-     "seen_rate": 1
+     "hours": 18.717,
+     "seen_all": 4,
+     "seen_rate": 4
     },
     "5": {
      "sessions": 2,
@@ -15839,27 +15839,27 @@
     },
     "5": {
      "sessions": 10,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 54.767,
-     "seen_all": 1,
-     "seen_rate": 1
+     "hours": 79.783,
+     "seen_all": 2,
+     "seen_rate": 2
     },
     "1": {
      "sessions": 8,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 39.267,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 52.15,
+     "seen_all": 3,
+     "seen_rate": 3
     },
     "7": {
      "sessions": 9,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 45.233,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 57.483,
+     "seen_all": 5,
+     "seen_rate": 5
     },
     "8": {
      "sessions": 6,
@@ -15879,19 +15879,19 @@
     },
     "9": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 26.217,
-     "seen_all": 4,
-     "seen_rate": 4
+     "hours": 37.85,
+     "seen_all": 5,
+     "seen_rate": 5
     },
     "3": {
      "sessions": 7,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 40.717,
-     "seen_all": 5,
-     "seen_rate": 5
+     "hours": 53.517,
+     "seen_all": 6,
+     "seen_rate": 6
     },
     "6": {
      "sessions": 9,
@@ -16709,8 +16709,8 @@
  },
  "totals": {
   "timesheet_rows": 993,
-  "seen": 861,
-  "page_footer_seen": 861
+  "seen": 871,
+  "page_footer_seen": 871
  },
  "unplaced": {
   "sits": 0,
