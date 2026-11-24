@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-23T18:19:51-06:00",
- "built_at_label": "Nov 23, 2026 6:19 PM CT",
- "snapshot_label": "Nov 23, 2026 6:19 PM CT",
+ "built_at": "2026-11-23T21:10:41-06:00",
+ "built_at_label": "Nov 23, 2026 9:10 PM CT",
+ "snapshot_label": "Nov 23, 2026 9:10 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 23 6:19 PM CT",
- "open_sessions_count": 5,
+ "open_sessions_now_label": "Nov 23 9:10 PM CT",
+ "open_sessions_count": 0,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5634,9 +5634,9 @@
    },
    "2": {
     "sessions": 5,
-    "open": 2,
+    "open": 0,
     "zero_len": 0,
-    "hours": 28.333,
+    "hours": 46.883,
     "seen_all": 4,
     "seen_rate": 4
    },
@@ -5666,11 +5666,11 @@
    },
    "6": {
     "sessions": 8,
-    "open": 3,
+    "open": 0,
     "zero_len": 0,
-    "hours": 24.417,
-    "seen_all": 1,
-    "seen_rate": 1
+    "hours": 56.733,
+    "seen_all": 11,
+    "seen_rate": 11
    },
    "7": {
     "sessions": 11,
@@ -5743,17 +5743,17 @@
     },
     "6": {
      "sessions": 3,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 6.983,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 12.65,
+     "seen_all": 6,
+     "seen_rate": 6
     },
     "2": {
      "sessions": 2,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 5.25,
+     "hours": 10.317,
      "seen_all": 1,
      "seen_rate": 1
     }
@@ -6013,11 +6013,11 @@
     },
     "6": {
      "sessions": 5,
-     "open": 2,
+     "open": 0,
      "zero_len": 0,
-     "hours": 17.433,
-     "seen_all": 1,
-     "seen_rate": 1
+     "hours": 44.083,
+     "seen_all": 5,
+     "seen_rate": 5
     },
     "3": {
      "sessions": 4,
@@ -6053,9 +6053,9 @@
     },
     "2": {
      "sessions": 3,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 23.083,
+     "hours": 36.567,
      "seen_all": 3,
      "seen_rate": 3
     },
@@ -6439,7 +6439,7 @@
     "Adult Doe": 2,
     "Fawn Doe": 0,
     "Fawn Buck": 0,
-    "Adult Buck": 1
+    "Adult Buck": 2
    },
    "7": {
     "Adult Doe": 0,
@@ -6460,10 +6460,16 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 24,
+  "total": 25,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "6": {
+     "Adult Doe": 2,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 2
+    },
     "8": {
      "Adult Doe": 0,
      "Fawn Doe": 3,
@@ -6475,12 +6481,6 @@
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 0
-    },
-    "6": {
-     "Adult Doe": 2,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 1
     },
     "1": {
      "Adult Doe": 1,
@@ -6525,8 +6525,8 @@
  },
  "totals": {
   "timesheet_rows": 327,
-  "seen": 330,
-  "page_footer_seen": 330
+  "seen": 340,
+  "page_footer_seen": 340
  },
  "unplaced": {
   "sits": 0,
@@ -6544,7 +6544,7 @@
   "zone 'Zone 7': no 'Acres' in description; estimated 243.7 ac from the polygon",
   "zone 'Zone 8': no 'Acres' in description; estimated 236.6 ac from the polygon",
   "skipped non-parking point feature named 'Registration Station'",
-  "13 harvests used the sit's AM/PM bucket instead of the logged time (22 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
+  "14 harvests used the sit's AM/PM bucket instead of the logged time (23 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
   "3 timesheet rows have In == Out (0 hours; kept, add no hours)",
@@ -6552,6 +6552,11 @@
  ],
  "recovery": {
   "by_zone": {
+   "6": {
+    "n": 4,
+    "rec": 4,
+    "other": {}
+   },
    "1": {
     "n": 6,
     "rec": 6,
@@ -6567,11 +6572,6 @@
    "2": {
     "n": 2,
     "rec": 2,
-    "other": {}
-   },
-   "6": {
-    "n": 3,
-    "rec": 3,
     "other": {}
    },
    "3": {
@@ -6596,8 +6596,8 @@
     }
    }
   },
-  "n": 24,
-  "rec": 20,
+  "n": 25,
+  "rec": 21,
   "other": {
    "Wounded": 4
   }
