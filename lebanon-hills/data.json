@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-24T12:22:09-06:00",
- "built_at_label": "Nov 24, 2026 12:22 PM CT",
- "snapshot_label": "Nov 24, 2026 12:22 PM CT",
+ "built_at": "2026-11-24T15:04:19-06:00",
+ "built_at_label": "Nov 24, 2026 3:04 PM CT",
+ "snapshot_label": "Nov 24, 2026 3:04 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 24 12:22 PM CT",
- "open_sessions_count": 19,
+ "open_sessions_now_label": "Nov 24 3:04 PM CT",
+ "open_sessions_count": 38,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5693,46 +5693,22 @@
   },
   "2026-11-24": {
    "1": {
-    "sessions": 4,
-    "open": 1,
+    "sessions": 8,
+    "open": 5,
     "zero_len": 0,
     "hours": 13.55,
     "seen_all": 2,
     "seen_rate": 2
    },
    "2": {
-    "sessions": 6,
-    "open": 4,
+    "sessions": 7,
+    "open": 5,
     "zero_len": 0,
     "hours": 9.617,
     "seen_all": 2,
     "seen_rate": 2
    },
    "3": {
-    "sessions": 2,
-    "open": 2,
-    "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
-   },
-   "4": {
-    "sessions": 4,
-    "open": 3,
-    "zero_len": 0,
-    "hours": 3.817,
-    "seen_all": 0,
-    "seen_rate": 0
-   },
-   "5": {
-    "sessions": 5,
-    "open": 2,
-    "zero_len": 0,
-    "hours": 14.883,
-    "seen_all": 6,
-    "seen_rate": 6
-   },
-   "6": {
     "sessions": 3,
     "open": 3,
     "zero_len": 0,
@@ -5740,44 +5716,108 @@
     "seen_all": 0,
     "seen_rate": 0
    },
+   "4": {
+    "sessions": 6,
+    "open": 5,
+    "zero_len": 0,
+    "hours": 3.817,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "5": {
+    "sessions": 9,
+    "open": 6,
+    "zero_len": 0,
+    "hours": 14.883,
+    "seen_all": 6,
+    "seen_rate": 6
+   },
+   "6": {
+    "sessions": 4,
+    "open": 4,
+    "zero_len": 0,
+    "hours": 0.0,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
    "7": {
-    "sessions": 5,
-    "open": 0,
+    "sessions": 10,
+    "open": 5,
     "zero_len": 0,
     "hours": 18.05,
     "seen_all": 13,
     "seen_rate": 13
    },
    "8": {
-    "sessions": 6,
-    "open": 4,
+    "sessions": 9,
+    "open": 5,
     "zero_len": 0,
-    "hours": 11.917,
-    "seen_all": 2,
-    "seen_rate": 2
+    "hours": 20.5,
+    "seen_all": 4,
+    "seen_rate": 4
    }
   }
  },
  "by_day_ap": {
   "PM": {
    "2026-11-24": {
-    "2": {
-     "sessions": 1,
-     "open": 1,
+    "5": {
+     "sessions": 4,
+     "open": 4,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 5,
+     "open": 5,
      "zero_len": 0,
      "hours": 0.0,
      "seen_all": 0,
      "seen_rate": 0
     },
     "8": {
-     "sessions": 1,
-     "open": 1,
+     "sessions": 4,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 1.6,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 4,
+     "open": 4,
      "zero_len": 0,
      "hours": 0.0,
      "seen_all": 0,
      "seen_rate": 0
     },
     "6": {
+     "sessions": 2,
+     "open": 2,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
      "sessions": 1,
      "open": 1,
      "zero_len": 0,
@@ -6099,11 +6139,11 @@
    "2026-11-24": {
     "8": {
      "sessions": 5,
-     "open": 3,
+     "open": 2,
      "zero_len": 0,
-     "hours": 11.917,
-     "seen_all": 2,
-     "seen_rate": 2
+     "hours": 18.9,
+     "seen_all": 4,
+     "seen_rate": 4
     },
     "4": {
      "sessions": 4,
@@ -6696,9 +6736,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 362,
-  "seen": 365,
-  "page_footer_seen": 365
+  "timesheet_rows": 383,
+  "seen": 367,
+  "page_footer_seen": 367
  },
  "unplaced": {
   "sits": 0,
@@ -6716,9 +6756,11 @@
   "zone 'Zone 7': no 'Acres' in description; estimated 243.7 ac from the polygon",
   "zone 'Zone 8': no 'Acres' in description; estimated 236.6 ac from the polygon",
   "skipped non-parking point feature named 'Registration Station'",
+  "timesheets_p1.html: duplicate row (same hunter/In/zone) skipped - pages likely shifted between saves",
   "14 harvests used the sit's AM/PM bucket instead of the logged time (26 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
+  "pager says 384 timesheet rows, parsed 383 (missing page file?)",
   "3 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "72 rows on stand-setup days (2026-11-15, 2026-11-22) excluded from hunt-day totals"
  ],
