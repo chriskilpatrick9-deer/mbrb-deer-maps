@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-24T09:02:25-06:00",
- "built_at_label": "Nov 24, 2026 9:02 AM CT",
- "snapshot_label": "Nov 24, 2026 9:02 AM CT",
+ "built_at": "2026-11-24T12:22:09-06:00",
+ "built_at_label": "Nov 24, 2026 12:22 PM CT",
+ "snapshot_label": "Nov 24, 2026 12:22 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 24 9:02 AM CT",
- "open_sessions_count": 29,
+ "open_sessions_now_label": "Nov 24 12:22 PM CT",
+ "open_sessions_count": 19,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5694,19 +5694,19 @@
   "2026-11-24": {
    "1": {
     "sessions": 4,
-    "open": 4,
+    "open": 1,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 13.55,
+    "seen_all": 2,
+    "seen_rate": 2
    },
    "2": {
-    "sessions": 5,
-    "open": 5,
+    "sessions": 6,
+    "open": 4,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 9.617,
+    "seen_all": 2,
+    "seen_rate": 2
    },
    "3": {
     "sessions": 2,
@@ -5717,6 +5717,22 @@
     "seen_rate": 0
    },
    "4": {
+    "sessions": 4,
+    "open": 3,
+    "zero_len": 0,
+    "hours": 3.817,
+    "seen_all": 0,
+    "seen_rate": 0
+   },
+   "5": {
+    "sessions": 5,
+    "open": 2,
+    "zero_len": 0,
+    "hours": 14.883,
+    "seen_all": 6,
+    "seen_rate": 6
+   },
+   "6": {
     "sessions": 3,
     "open": 3,
     "zero_len": 0,
@@ -5724,43 +5740,387 @@
     "seen_all": 0,
     "seen_rate": 0
    },
-   "5": {
-    "sessions": 5,
-    "open": 5,
-    "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
-   },
-   "6": {
-    "sessions": 2,
-    "open": 2,
-    "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
-   },
    "7": {
-    "sessions": 4,
-    "open": 4,
+    "sessions": 5,
+    "open": 0,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 18.05,
+    "seen_all": 13,
+    "seen_rate": 13
    },
    "8": {
-    "sessions": 4,
+    "sessions": 6,
     "open": 4,
     "zero_len": 0,
-    "hours": 0.0,
-    "seen_all": 0,
-    "seen_rate": 0
+    "hours": 11.917,
+    "seen_all": 2,
+    "seen_rate": 2
    }
   }
  },
  "by_day_ap": {
+  "PM": {
+   "2026-11-24": {
+    "2": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 1,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 0.0,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-23": {
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 1,
+     "hours": 13.8,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "5": {
+     "sessions": 6,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 19.6,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "8": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 15.933,
+     "seen_all": 10,
+     "seen_rate": 10
+    },
+    "3": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.567,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.383,
+     "seen_all": 4,
+     "seen_rate": 4
+    },
+    "1": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.9,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
+    "6": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 12.65,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 10.317,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-11-22": {
+    "6": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 3.583,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.133,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 0.867,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.45,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "3": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.083,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-18": {
+    "4": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.2,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.85,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "5": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.9,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "6": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 6.833,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 14.6,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 3.617,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.333,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "3": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 4.65,
+     "seen_all": 1,
+     "seen_rate": 1
+    }
+   },
+   "2026-11-17": {
+    "5": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 13.617,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "8": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.633,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 17.933,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "1": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.95,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "6": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.783,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "2": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.417,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "4": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.017,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "3": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.9,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   },
+   "2026-11-16": {
+    "6": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 9.233,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "5": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 7.65,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "1": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 5.883,
+     "seen_all": 6,
+     "seen_rate": 6
+    },
+    "2": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 2.783,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 4,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 16.4,
+     "seen_all": 1,
+     "seen_rate": 1
+    },
+    "4": {
+     "sessions": 3,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 11.583,
+     "seen_all": 3,
+     "seen_rate": 3
+    },
+    "8": {
+     "sessions": 2,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 8.65,
+     "seen_all": 2,
+     "seen_rate": 2
+    }
+   },
+   "2026-11-15": {
+    "8": {
+     "sessions": 1,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 1.917,
+     "seen_all": 0,
+     "seen_rate": 0
+    }
+   }
+  },
   "AM": {
    "2026-11-24": {
+    "8": {
+     "sessions": 5,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 11.917,
+     "seen_all": 2,
+     "seen_rate": 2
+    },
+    "4": {
+     "sessions": 4,
+     "open": 3,
+     "zero_len": 0,
+     "hours": 3.817,
+     "seen_all": 0,
+     "seen_rate": 0
+    },
+    "7": {
+     "sessions": 5,
+     "open": 0,
+     "zero_len": 0,
+     "hours": 18.05,
+     "seen_all": 13,
+     "seen_rate": 13
+    },
     "3": {
      "sessions": 2,
      "open": 2,
@@ -5771,51 +6131,27 @@
     },
     "2": {
      "sessions": 5,
-     "open": 5,
+     "open": 3,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 9.617,
+     "seen_all": 2,
+     "seen_rate": 2
     },
     "5": {
      "sessions": 5,
-     "open": 5,
+     "open": 2,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 14.883,
+     "seen_all": 6,
+     "seen_rate": 6
     },
     "1": {
      "sessions": 4,
-     "open": 4,
+     "open": 1,
      "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 4,
-     "open": 4,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 3,
-     "open": 3,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 4,
-     "open": 4,
-     "zero_len": 0,
-     "hours": 0.0,
-     "seen_all": 0,
-     "seen_rate": 0
+     "hours": 13.55,
+     "seen_all": 2,
+     "seen_rate": 2
     },
     "6": {
      "sessions": 2,
@@ -6222,316 +6558,6 @@
      "seen_rate": 2
     }
    }
-  },
-  "PM": {
-   "2026-11-23": {
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 1,
-     "hours": 13.8,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "5": {
-     "sessions": 6,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 19.6,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "8": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 15.933,
-     "seen_all": 10,
-     "seen_rate": 10
-    },
-    "3": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.567,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.383,
-     "seen_all": 4,
-     "seen_rate": 4
-    },
-    "1": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.9,
-     "seen_all": 5,
-     "seen_rate": 5
-    },
-    "6": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 12.65,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 10.317,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-11-22": {
-    "6": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.583,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.133,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 0.867,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.45,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "3": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.083,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-11-18": {
-    "4": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.2,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.85,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "5": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.9,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "6": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 6.833,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 14.6,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 3.617,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.333,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "3": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 4.65,
-     "seen_all": 1,
-     "seen_rate": 1
-    }
-   },
-   "2026-11-17": {
-    "5": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 13.617,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "8": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.633,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "7": {
-     "sessions": 5,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 17.933,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "1": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.95,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "6": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.783,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "2": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.417,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "4": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.017,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "3": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.9,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   },
-   "2026-11-16": {
-    "6": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 9.233,
-     "seen_all": 2,
-     "seen_rate": 2
-    },
-    "5": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 7.65,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "1": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 5.883,
-     "seen_all": 6,
-     "seen_rate": 6
-    },
-    "2": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 2.783,
-     "seen_all": 0,
-     "seen_rate": 0
-    },
-    "7": {
-     "sessions": 4,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 16.4,
-     "seen_all": 1,
-     "seen_rate": 1
-    },
-    "4": {
-     "sessions": 3,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 11.583,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
-    "8": {
-     "sessions": 2,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 8.65,
-     "seen_all": 2,
-     "seen_rate": 2
-    }
-   },
-   "2026-11-15": {
-    "8": {
-     "sessions": 1,
-     "open": 0,
-     "zero_len": 0,
-     "hours": 1.917,
-     "seen_all": 0,
-     "seen_rate": 0
-    }
-   }
   }
  },
  "groups": [],
@@ -6546,7 +6572,7 @@
     "Adult Buck": 1
    },
    "2": {
-    "Adult Doe": 2,
+    "Adult Doe": 3,
     "Fawn Doe": 0,
     "Fawn Buck": 0,
     "Adult Buck": 0
@@ -6576,13 +6602,13 @@
     "Adult Buck": 2
    },
    "7": {
-    "Adult Doe": 0,
+    "Adult Doe": 1,
     "Fawn Doe": 0,
     "Fawn Buck": 0,
     "Adult Buck": 0
    },
    "8": {
-    "Adult Doe": 0,
+    "Adult Doe": 1,
     "Fawn Doe": 3,
     "Fawn Buck": 0,
     "Adult Buck": 1
@@ -6594,10 +6620,22 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 25,
+  "total": 28,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "2": {
+     "Adult Doe": 3,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
+    },
+    "7": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
+    },
     "6": {
      "Adult Doe": 2,
      "Fawn Doe": 0,
@@ -6609,12 +6647,6 @@
      "Fawn Doe": 3,
      "Fawn Buck": 0,
      "Adult Buck": 1
-    },
-    "2": {
-     "Adult Doe": 2,
-     "Fawn Doe": 0,
-     "Fawn Buck": 0,
-     "Adult Buck": 0
     },
     "1": {
      "Adult Doe": 1,
@@ -6642,6 +6674,12 @@
     }
    },
    "PM": {
+    "8": {
+     "Adult Doe": 1,
+     "Fawn Doe": 0,
+     "Fawn Buck": 0,
+     "Adult Buck": 0
+    },
     "1": {
      "Adult Doe": 2,
      "Fawn Doe": 0,
@@ -6658,9 +6696,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 356,
-  "seen": 340,
-  "page_footer_seen": 340
+  "timesheet_rows": 362,
+  "seen": 365,
+  "page_footer_seen": 365
  },
  "unplaced": {
   "sits": 0,
@@ -6678,7 +6716,7 @@
   "zone 'Zone 7': no 'Acres' in description; estimated 243.7 ac from the polygon",
   "zone 'Zone 8': no 'Acres' in description; estimated 236.6 ac from the polygon",
   "skipped non-parking point feature named 'Registration Station'",
-  "14 harvests used the sit's AM/PM bucket instead of the logged time (23 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
+  "14 harvests used the sit's AM/PM bucket instead of the logged time (26 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
   "3 timesheet rows have In == Out (0 hours; kept, add no hours)",
@@ -6686,6 +6724,25 @@
  ],
  "recovery": {
   "by_zone": {
+   "8": {
+    "n": 5,
+    "rec": 3,
+    "other": {
+     "Wounded": 2
+    }
+   },
+   "2": {
+    "n": 3,
+    "rec": 3,
+    "other": {}
+   },
+   "7": {
+    "n": 1,
+    "rec": 0,
+    "other": {
+     "Wounded": 1
+    }
+   },
    "6": {
     "n": 4,
     "rec": 4,
@@ -6694,18 +6751,6 @@
    "1": {
     "n": 6,
     "rec": 6,
-    "other": {}
-   },
-   "8": {
-    "n": 4,
-    "rec": 3,
-    "other": {
-     "Wounded": 1
-    }
-   },
-   "2": {
-    "n": 2,
-    "rec": 2,
     "other": {}
    },
    "3": {
@@ -6730,10 +6775,10 @@
     }
    }
   },
-  "n": 25,
-  "rec": 21,
+  "n": 28,
+  "rec": 22,
   "other": {
-   "Wounded": 4
+   "Wounded": 6
   }
  }
 }
