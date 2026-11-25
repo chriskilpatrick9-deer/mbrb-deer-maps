@@ -1,11 +1,11 @@
 {
  "title": "MBRB Hunt 5 \u00b7 Lebanon Hills Regional Park",
- "built_at": "2026-11-24T18:16:10-06:00",
- "built_at_label": "Nov 24, 2026 6:16 PM CT",
- "snapshot_label": "Nov 24, 2026 6:16 PM CT",
+ "built_at": "2026-11-24T21:12:01-06:00",
+ "built_at_label": "Nov 24, 2026 9:12 PM CT",
+ "snapshot_label": "Nov 24, 2026 9:12 PM CT",
  "open_sessions_mode": "skip",
- "open_sessions_now_label": "Nov 24 6:16 PM CT",
- "open_sessions_count": 6,
+ "open_sessions_now_label": "Nov 24 9:11 PM CT",
+ "open_sessions_count": 1,
  "hunt_days": [
   "2026-11-16",
   "2026-11-17",
@@ -5702,9 +5702,9 @@
    },
    "2": {
     "sessions": 8,
-    "open": 1,
+    "open": 0,
     "zero_len": 1,
-    "hours": 38.8,
+    "hours": 52.467,
     "seen_all": 5,
     "seen_rate": 5
    },
@@ -5725,12 +5725,12 @@
     "seen_rate": 11
    },
    "5": {
-    "sessions": 9,
-    "open": 4,
+    "sessions": 10,
+    "open": 1,
     "zero_len": 0,
-    "hours": 31.25,
-    "seen_all": 9,
-    "seen_rate": 9
+    "hours": 53.333,
+    "seen_all": 18,
+    "seen_rate": 18
    },
    "6": {
     "sessions": 4,
@@ -5742,9 +5742,9 @@
    },
    "7": {
     "sessions": 10,
-    "open": 1,
+    "open": 0,
     "zero_len": 0,
-    "hours": 31.2,
+    "hours": 36.667,
     "seen_all": 13,
     "seen_rate": 13
    },
@@ -5761,6 +5761,14 @@
  "by_day_ap": {
   "PM": {
    "2026-11-24": {
+    "5": {
+     "sessions": 5,
+     "open": 1,
+     "zero_len": 0,
+     "hours": 13.65,
+     "seen_all": 5,
+     "seen_rate": 5
+    },
     "2": {
      "sessions": 3,
      "open": 0,
@@ -5777,19 +5785,11 @@
      "seen_all": 0,
      "seen_rate": 0
     },
-    "5": {
-     "sessions": 4,
-     "open": 3,
-     "zero_len": 0,
-     "hours": 4.2,
-     "seen_all": 3,
-     "seen_rate": 3
-    },
     "7": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 13.15,
+     "hours": 18.617,
      "seen_all": 0,
      "seen_rate": 0
     },
@@ -6171,19 +6171,19 @@
     },
     "2": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 30.767,
+     "hours": 44.433,
      "seen_all": 5,
      "seen_rate": 5
     },
     "5": {
      "sessions": 5,
-     "open": 1,
+     "open": 0,
      "zero_len": 0,
-     "hours": 27.05,
-     "seen_all": 6,
-     "seen_rate": 6
+     "hours": 39.683,
+     "seen_all": 13,
+     "seen_rate": 13
     },
     "1": {
      "sessions": 4,
@@ -6630,10 +6630,10 @@
     "Adult Buck": 1
    },
    "5": {
-    "Adult Doe": 1,
+    "Adult Doe": 2,
     "Fawn Doe": 1,
     "Fawn Buck": 0,
-    "Adult Buck": 2
+    "Adult Buck": 3
    },
    "6": {
     "Adult Doe": 2,
@@ -6660,10 +6660,16 @@
    "Fawn Buck",
    "Adult Buck"
   ],
-  "total": 29,
+  "total": 31,
   "date_filterable": false,
   "by_zone_ap": {
    "AM": {
+    "5": {
+     "Adult Doe": 2,
+     "Fawn Doe": 1,
+     "Fawn Buck": 0,
+     "Adult Buck": 3
+    },
     "2": {
      "Adult Doe": 3,
      "Fawn Doe": 0,
@@ -6705,12 +6711,6 @@
      "Fawn Doe": 0,
      "Fawn Buck": 0,
      "Adult Buck": 1
-    },
-    "5": {
-     "Adult Doe": 1,
-     "Fawn Doe": 1,
-     "Fawn Buck": 0,
-     "Adult Buck": 2
     }
    },
    "PM": {
@@ -6736,9 +6736,9 @@
   }
  },
  "totals": {
-  "timesheet_rows": 385,
-  "seen": 410,
-  "page_footer_seen": 410
+  "timesheet_rows": 386,
+  "seen": 419,
+  "page_footer_seen": 419
  },
  "unplaced": {
   "sits": 0,
@@ -6757,15 +6757,22 @@
   "zone 'Zone 8': no 'Acres' in description; estimated 236.6 ac from the polygon",
   "skipped non-parking point feature named 'Registration Station'",
   "timesheets_p1.html: duplicate row (same hunter/In/zone) skipped - pages likely shifted between saves",
-  "14 harvests used the sit's AM/PM bucket instead of the logged time (27 in-sit, 0 after checkout, 0 other day, 2 kept the logged time)",
+  "15 harvests used the sit's AM/PM bucket instead of the logged time (28 in-sit, 0 after checkout, 0 other day, 3 kept the logged time)",
   "expected -1 zones, found 8",
   "expected -1 parking points, found 0",
-  "pager says 386 timesheet rows, parsed 385 (missing page file?)",
+  "pager says 387 timesheet rows, parsed 386 (missing page file?)",
   "4 timesheet rows have In == Out (0 hours; kept, add no hours)",
   "72 rows on stand-setup days (2026-11-15, 2026-11-22) excluded from hunt-day totals"
  ],
  "recovery": {
   "by_zone": {
+   "5": {
+    "n": 6,
+    "rec": 4,
+    "other": {
+     "Wounded": 2
+    }
+   },
    "1": {
     "n": 7,
     "rec": 6,
@@ -6810,19 +6817,12 @@
     "other": {
      "Wounded": 1
     }
-   },
-   "5": {
-    "n": 4,
-    "rec": 3,
-    "other": {
-     "Wounded": 1
-    }
    }
   },
-  "n": 29,
-  "rec": 22,
+  "n": 31,
+  "rec": 23,
   "other": {
-   "Wounded": 7
+   "Wounded": 8
   }
  }
 }
